@@ -7,7 +7,7 @@ environment:
 
 skip_commits:
   files:
-    - "*.yml"
+    # - "*.yml"
     - "*.rst"
     - "LICENSE"
 
