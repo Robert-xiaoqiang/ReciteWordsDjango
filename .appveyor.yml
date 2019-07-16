@@ -17,7 +17,7 @@ install:
 build_script:
   - dir
   - cd ReciteWords/
-  - "%PYTHON%\\python.exe fuck.py %APPVEYOR_BUILD_FOLDER%\\static\\html\\recite_words.html"
+  - "%PYTHON%\\python.exe fuck.py %APPVEYOR_BUILD_FOLDER%\\ReciteWords\\static\\html\\recite_words.html"
   - scp -i authoritative/ci -P 22222 static/html/recite_words.html "appveyor@68.183.162.213:~/WebAPP/ReciteWords/"
   #- ssh appveyor@68.183.162.213 -i authoritative/ci -p 22222
   #- cd WebAPP/
