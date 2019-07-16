@@ -14,13 +14,7 @@ skip_commits:
 install:
   - "%PYTHON%\\python.exe -m pip install . -r requirements.txt"
 
-stages:
-    - build_test
-
-build_test:
-    stage: build_test
-    only:
-        - ci # 只在ci分支变化时触发
+build:
     script:
         - cd ReciteWords/
         - python fuck.py
