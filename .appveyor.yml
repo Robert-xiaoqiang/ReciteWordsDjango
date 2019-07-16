@@ -1,0 +1,31 @@
+environment:
+  matrix:
+    - PYTHON: "C:\\Python27"
+    - PYTHON: "C:\\Python27-x64"
+    - PYTHON: "C:\\Python35-x64"
+    - PYTHON: "C:\\Python36-x64"
+
+skip_commits:
+  files:
+    - "*.yml"
+    - "*.rst"
+    - "LICENSE"
+
+install:
+  - "%PYTHON%\\python.exe -m pip install . -r requirements.txt"
+
+stages:
+    - build_test
+
+build_test:
+    stage: build_test
+    only:
+        - ci # 只在ci分支变化时触发
+    script:
+        - cd ReciteWords/
+        - python fuck.py
+        - scp ReciteWords/static/html/recite_words.html "appveyor@68.183.162.213:~/WebAPP/ReciteWords/"
+        #- ssh appveyor@68.183.162.213 -i authoritative/ci -p 22222
+        #- cd WebAPP/
+        #- sudo nginxd -s reload
+        - exit
