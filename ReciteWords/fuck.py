@@ -7,7 +7,7 @@ def main():
 	output_name = 'static/html/recite_words.html'
 	with open(file_name, 'r', encoding = 'utf-8') as f:
 		html = markdown(f.read())
-		with open(sys.argv[1], 'w', encoding = 'utf-8') as o:
+		with open(output_name, 'w', encoding = 'utf-8') as o:
 			o.write(html)
 
 if __name__ == '__main__':
