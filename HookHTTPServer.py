@@ -6,8 +6,8 @@ def application(environ, start_response):
 
 	return '<html><body><h1>I Knew!</h1></body></html>'
 
-def main()
-	httpd = make_server('HookHTTPServer', 8000, application)
+def main():
+	httpd = make_server('', 8000, application)
 	httpd.serve_forever()
 
 if __name__ == '__main__':
