@@ -906,4 +906,58 @@
 # 2019-07-16
 
 - subjugation [ ˌsʌbdʒʊ'ɡeɪʃn ] 镇压, 平息, suppress ?
+- subsidize ['sʌbsidaiz] 补助, 资助
+- subsist [səb'sist] 生存, 存在
+- substantial [səb'stænʃəl] 相当的, 可观的
+- subterranean [,sʌbtə'reiniən] 地下的, 地表的
+- suburb ['sʌbə:b] 郊区
+- succinct [sək'siŋkt; sə's-] 简明的, 简洁的
+- sulfur ['sʌlfə] 硫磺
+- superficial [,sju:pə'fiʃəl] 肤浅的, 表面上的
+- superintendent [,sju:pərin'tendənt] 主管, 负责人, administrator
+- supplant [sə'plɑ:nt; -'plænt] 排挤, 取代 == replace
+- supreme [sju'pri:m; sə-] 至高的, 最重要的
+- surge [sə:dʒ] 汹涌, 澎湃, 迸发
+- sustenance ['sʌstenəns] 食物, 生计
+- swamp [swɔmp; swɔ:mp] 沼泽, 湿地
+- swarm [swɔ:m] n, vt 挤满, 一窝蜂
 
+# 2019-07-17
+
+- startling ['stɑrt(ə)lɪŋ] 惊人的, 吃惊的, 令人震惊的
+- stately ['steitli] 庄严的, 堂皇的
+- stature ['stætʃə] 声望, 地位 world ~, 身高, 身材, in ~
+- steer [stiə] 驾驶, 掌舵
+- sterile ['sterail; -rəl] 不育的, 消过毒的
+- therapy -> radiotherapy 治疗, 疗法; 放射治疗, 放射疗法
+- stew [stju:; stu:] 炖, 文火慢熬
+- stipulate ['stipjuleit] 约定, 规定
+- stitch [stitʃ] 缝
+- stout [staut] 结实的 -> short
+- strain [strein] 植物种类, 拉伤扭伤, 紧张stress, pressure, 血统物种, vt 过滤
+- strand [strænd] 绳子, 线之一股
+- stringent ['strindʒənt] 严厉的 strict, 周转困难的
+- stroll [strəul] wander, get/hang around, 散步, 闲逛
+- spacious ['speiʃəs] 广大的, 宽广的
+- spawn [spɔ:n] 产卵, 造成, 酿成
+- specimen ['spesimin; -əmən] 样本, 样品
+- spectacle ['spektəkl] 奇观, 展示, 景象
+- speculation [,spekju'leiʃən] 投机, 推测
+- spiky ['spaiki] 尖而长的,  锐利的, ~ cactus [ˈkæktəs] 仙人掌
+- spine [spain] 脊骨, 刺 -> spin [spin] 旋转
+- sponge [spʌndʒ] 海绵
+- spontaneous [spɔn'teiniəs] 自发的, 自然产生的
+- instinctive [ɪn'stɪŋktɪv] 本能的, 直觉的
+- sprawl [sprɔ:l] vi 四肢摊开躺下, 扩展, 蔓延 stretch, spread
+- spingboard ['spriŋbɔ:d] 跳板, 出发点
+- sprout [spraut] vi 长出, 萌芽
+- spur [spə:] 鞭策, 激励 -> on the spur of the moment 临时
+- square -> squared -> squarely ['skwεəli] firmly 结实的, 坚固的, 稳定的 stable
+- squash [skwɔʃ; skwɔ:ʃ] n 南瓜, v 挤压, 镇压
+- squat [skwɔt] 蹲着, 蹲伏
+- squeak [skwi:k] 唧唧声
+- stagecoach ['steidʒkəutʃ] 公共马车
+- stagnant ['stæɡnənt] 停滞的, 迟钝的
+- stalk [stɔ:k] vt 潜伏跟踪, n 茎, 柄, 梗
+- staple ['steipl] n 主要产品, vt 把...装订起来
+- 
