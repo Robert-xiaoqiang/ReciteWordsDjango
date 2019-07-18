@@ -942,7 +942,7 @@
 - spawn [spɔ:n] 产卵, 造成, 酿成
 - specimen ['spesimin; -əmən] 样本, 样品
 - spectacle ['spektəkl] 奇观, 展示, 景象
-- speculation [,spekju'leiʃən] 投机, 推测
+- speculation [,spekju'leiʃən] 投机, 推测 -> speculative ['spekjələtɪv] 投机的, 推测的, 揣测的
 - spiky ['spaiki] 尖而长的,  锐利的, ~ cactus [ˈkæktəs] 仙人掌
 - spine [spain] 脊骨, 刺 -> spin [spin] 旋转
 - sponge [spʌndʒ] 海绵
@@ -960,4 +960,33 @@
 - stagnant ['stæɡnənt] 停滞的, 迟钝的
 - stalk [stɔ:k] vt 潜伏跟踪, n 茎, 柄, 梗
 - staple ['steipl] n 主要产品, vt 把...装订起来
+- bay == gulf == shore 海岸, 海滨, 岸, 滨
+- shovel ['ʃʌvəl] 铲子, 拿铲子铲
+- shrimp [ʃrimp] 小虾, 河虾
+- shrink, shrug, shuffle -> 削减缩小, 耸肩, 洗牌拖着脚走
+- shrub [ʃrʌb] 灌木丛
+- shuttle ['ʃʌtl] v 穿梭往返, n 往返汽车
+- sieve [siv] 筛, 筛子
+- silica ['silikə] n 硅石, 硅土
+- silt [silt] 淤泥
+- skull [skʌl] 头骨
+- skyrocket ['skai,rɔkit] vi 猛涨, 突增
+- deficit ['defəsɪt] n 赤字, 逆差
+- malicious [mə'lɪʃəs] 怀有恶意的, 恶毒的
+- sloth [slɔθ] 树懒, 懒惰
+- smug [smʌɡ] adj 沾沾自信, 自以为是, 表/定语都行
+- snake [sneik] n 蛇, v 弯曲, 扭转, 迂回前进
+- snowflake ['snəufleik] 雪花
+- soar [sɔr] 翱翔, 高耸
+- sodium ['səudiəm] 纳金属
+- solder ['sɔldə] vt 焊接 -> soldier ['soʊldʒər] 士兵, 军人
+- solitary ['sɔlitəri] adj 独居的, 独自的
+- turbulence ['tɜrbjələns] n 湍流 紊流
+- skyscraper [ˈskaɪˌskreɪpə(r)] 摩天大楼
+- scrap 小片, 小碎片 -> scrape -> 抓, 骚 == scratch -> 天空抓骚者 == 摩天大楼
+- substantial [səb'stænʃ(ə)l] 大量的, 大而坚固的
+- soak [soʊk] 浸泡, 渗入, 渗透
+
+# 2019-07-18
+
 - 
