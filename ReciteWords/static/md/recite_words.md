@@ -989,4 +989,5 @@
 
 # 2019-07-18
 
-- 
+- revise [rɪ'vaɪz] 修正, 修订 -> revision [rɪ'vɪʒ(ə)n] -> review [rɪ'vju] 回顾, 复习, 审核, 审查
+
