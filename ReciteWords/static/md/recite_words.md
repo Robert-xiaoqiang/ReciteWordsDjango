@@ -990,4 +990,14 @@
 # 2019-07-18
 
 - revise [rɪ'vaɪz] 修正, 修订 -> revision [rɪ'vɪʒ(ə)n] -> review [rɪ'vju] 回顾, 复习, 审核, 审查
-
+- pedestrian [pə'destriən] 行人, 步行者 -> pedestal ['pedɪst(ə)l]  n 基座, v 给...加基座
+- antique [ænˈtiːk] adj 古老的, n 古董 -> antiquity [æn'tɪkwəti] 古, 古老, 古物
+- underlie [.ʌndər'laɪ] 在...下面, 成为...的基础
+- indigenous [ɪn'dɪdʒənəs] 土著的, 土产的, 原产的
+- concentric [kən'sentrɪk] 同心的, 同轴的
+- iconography [.aɪkə'nɑɡrəfi] 图示法, 图像法
+- motif [moʊ'tif] 特色, 花纹, (图案的)基本花纹
+- pavement ['peɪvmənt] 石铺板路
+- peck [pek] 啄, 匆匆的吻
+- informant [inˈfɔː(r)mənt] 线人, 提供消息者
+- 
