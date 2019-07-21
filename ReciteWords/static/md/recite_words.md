@@ -937,7 +937,7 @@
 - strain [strein] 植物种类, 拉伤扭伤, 紧张stress, pressure, 血统物种, vt 过滤
 - strand [strænd] 绳子, 线之一股
 - stringent ['strindʒənt] 严厉的 strict, 周转困难的
-- stroll [strəul] wander, get/hang around, 散步, 闲逛
+- stroll [strəul] wander, get/hang around, 散步, 闲逛 == roam [rəum]
 - spacious ['speiʃəs] 广大的, 宽广的
 - spawn [spɔ:n] 产卵, 造成, 酿成
 - specimen ['spesimin; -əmən] 样本, 样品
@@ -986,6 +986,7 @@
 - scrap 小片, 小碎片 -> scrape -> 抓, 骚 == scratch -> 天空抓骚者 == 摩天大楼
 - substantial [səb'stænʃ(ə)l] 大量的, 大而坚固的
 - soak [soʊk] 浸泡, 渗入, 渗透
+- seep [si:p] v 渗出, 漏出
 
 # 2019-07-18
 
@@ -1000,4 +1001,57 @@
 - pavement ['peɪvmənt] 石铺板路
 - peck [pek] 啄, 匆匆的吻
 - informant [inˈfɔː(r)mənt] 线人, 提供消息者
-- 
+- scount [skaut] 侦查, 侦查员
+- scramble ['skræmbl] 攀爬, 搅乱
+- scruple ['skru:pl] n 踌躇, 顾忌
+
+# 2019-07-20
+
+- scurry ['skʌri; 'skə:-] 快速疾跑, 疾走
+- season ['si:zən] 季节, v 风干, 晒干
+- secrete ['sikri:t] vt 分泌, 隐匿
+- secret ['si:krit] n adj 秘密, 私密的
+- segregate ['seɡriɡit; -ɡeit] vt 分离, 隔离
+- sensational [sen'seiʃənəl] adj 有感觉的, 引起轰动的 -> sensation == perception 感知, 感觉
+- sensory ['sensəri] 感觉的, 感官的
+- sentimental [,senti'mentəl] 感伤性的, 脆弱的
+- serene [si'ri:n] 平静的, 安详的
+- sew [səu] 缝, 缝合
+- sewerage ['sjuəridʒ; 'su:əridʒ] 排水系统, 污水
+- shaft [ʃɑ:ft; ʃæft] 杆状物, 轴
+- shale [ʃeil] 页岩
+- shed [ʃed] n 木棚, 小屋, vt 脱落, 裁剪
+- sheer [ʃɪr] v 偏航, 偏荡 adj 纯粹, 十足, 全然
+- rival ['raivəl] vt. 比得上,与…相匹敌; adj. 竞争的; n. 竞争者,匹敌者;
+
+# 2019-07-21
+
+- roar [rɔ:] 吼, 轰鸣
+- rod [rɔd] 杆子, 枝子, steel ~, measureing ~
+- rodent ['rəudənt] 啮齿类动物
+- rote [rəut] 死记硬背, 生搬硬套
+- rumor [ˈruːmə(r)] n./v. 谣言，传闻，流言；[常用被动语态]谣传
+- rust [rʌst] n 生锈, 患锈病
+- saber ['seibə] 军刀, 马刀
+- sack [sæk] 袋, 麻袋
+- salt -> salinity, sale, for sale, saleman, salewemen
+- sanctuary ['sæŋktju'ri; -tʃuə-] 避难所, 动物保护区
+- sanitation [,sæni'teiʃən] 卫生, 公共设施
+- satire ['sætaiə] 讽刺文学
+- scavenger ['skævɪndʒə(r)] n 清道夫, v 做清道夫
+- scent [sent] 气味, 香味
+- repertoire ['repətwɑ:] 常备剧目, 保留剧目
+- replenish [ri'pleniʃ] 把...备足
+- resin ['rezin] 松脂, 树脂
+- resonance ['rezənəns] 共振, 谐振
+- resort [ri'zɔ:t] n 旅游胜地, vt/n 凭借, 求助于
+- claw 钳子, 鏊子, 爪子
+- confess [kən'fes] 忏悔, 坦白
+- retract [ri'trækt] 收回, 缩回, 撤回, 取消
+- retreat [ri'tri:t] 退却, 撤退
+- revere [ri'viə] 尊敬, 崇敬
+- revival [ri'vaivəl] 复兴, 复活
+- rhetoric ['retərik] 修辞, 修辞学
+- ribbon ['ribən] == band 带状物
+- rifle ['raifl] 来复枪
+- rift [rift] 分歧, 裂缝
