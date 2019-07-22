@@ -2,6 +2,10 @@
 >
 > wxq &copy; 2019-07 
 
+
+
+[TOC]
+
 # before 2019-07-14
 
 - depletion, exhaustion
