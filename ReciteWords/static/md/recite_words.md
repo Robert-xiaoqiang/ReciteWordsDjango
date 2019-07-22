@@ -1,3 +1,9 @@
+> online notes
+>
+> wxq &copy; 2019-07 
+
+# before 2019-07-14
+
 - depletion, exhaustion
 
 [ dɪ'pliʃən ] 消耗, 用尽
@@ -1047,7 +1053,7 @@
 - resort [ri'zɔ:t] n 旅游胜地, vt/n 凭借, 求助于
 - claw 钳子, 鏊子, 爪子
 - confess [kən'fes] 忏悔, 坦白
-- retract [ri'trækt] 收回, 缩回, 撤回, 取消
+- retract [ri'trækt] 收回, 收缩 == contract 收缩, 感染, 缔结条约
 - retreat [ri'tri:t] 退却, 撤退
 - revere [ri'viə] 尊敬, 崇敬
 - revival [ri'vaivəl] 复兴, 复活
@@ -1055,3 +1061,36 @@
 - ribbon ['ribən] == band 带状物
 - rifle ['raifl] 来复枪
 - rift [rift] 分歧, 裂缝
+- sole [soʊl] adj 仅有的, 独占的 == exclusive, exclude
+- communal [kə'mjun(ə)l] 公社的
+- traumatic [trɔ'mætɪk] adj 痛苦的, 创伤的
+- canyon [ˈkænjən] 山谷, 峡谷
+- terrace ['terəs] n 梯田, 阶地
+- bond [bɑnd] n/v 债券, 键合, 契约
+- low-lying adj 低洼的, 低海拔的 == low-elevation/altitude <-> high-lying
+- lowest/highest-lying
+- irritant ['ɪrɪtənt] 刺激, 有刺激性的
+-  reflex 反射作用
+- inhale [ɪn'heɪl] 吸气 -> exhale [eks'heɪl] 呼气
+- respiratory ['resp(ə)rə.tɔri] 呼吸的, 呼吸作用的
+- asthma [ˈæzmə] 气喘
+- inflate [ɪn'fleɪt] dilate [daɪ'leɪt] 膨胀 -> corrode corrosion [kə'roʊd] 腐蚀, erode, erosion [ɪ'roʊd]
+- refute [rɪ'fjut] == contradict 反驳, 相矛盾, 驳斥
+- passage 走廊, 通过, 经过, 文章段落 == way
+- rib [rɪb] 肋骨, 嘲笑, 逗弄 cage [keɪdʒ] 笼子, 鸟笼
+- diaphragm ['daɪə.fræm] 隔膜, 隔 
+
+# 2019-07-22
+
+- deteriorate [dɪˈtɪriəreɪt] 退化, 恶化, 变质
+- recreation == entertainment 消遣, 娱乐
+- reddish ['rediʃ] 淡红色, 微红色
+- reef [ri:f] 礁石, 暗礁
+- reel [ri:l; riəl] 卷轴, ~ back 趔趄
+- furbish ['fɜːbɪʃ] 研磨, 磨光
+- regime [reɪ'ʒim] 政体, 政权
+- habilitate [hə'bɪləˌteɪt] 使合格, 给...穿衣
+- rehabilitate [,ri:hə'biliteit] 使康复, 使复职
+- reign [rein] 统治, 支配
+- relief [ri'li:f] 浮雕, 浮雕品
+- remnant ['remnənt] 残余的, 残余物
