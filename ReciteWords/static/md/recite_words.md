@@ -1098,3 +1098,71 @@
 - reign [rein] 统治, 支配
 - relief [ri'li:f] 浮雕, 浮雕品
 - remnant ['remnənt] 残余的, 残余物
+- renaissance [ri'neisəns; 'renəsɔns; rəne'sɔŋs] 复活, 文艺复兴
+- renounce [ri'nauns] 断绝关系, 声明放弃
+- repel [ri'pel] 击退, 追逐
+- quadrilateral [,kwɔdri'lætərəl] 四边形的
+- quarry ['kwɔri] 采石场, 漏天矿场
+- quilt [kwilt] 棉被, 制成棉被
+- radar ['reidə] 雷达
+- radical ['rædikəl] 根本的, 激进的
+- raft [rɑ:ft; ræft] 筏, 救生艇
+- sob with rage, become all rage 风靡一时的事物, 大怒, 情绪激动
+- rally ['ræli] n/v 集会, 召集
+- ranch [rɑ:ntʃ; ræntʃ] 农场, 牧场
+- rat n 大老鼠, rat on sb. 对某人做坏事
+- ratify ['rætifai] 批准
+- ration ['ræʃən; 'rei-] 定量配给
+- rattle ['rætl] 拨浪鼓, 咯咯声
+- raven ['reivən] n 大乌鸦 n/v 争夺
+- realm [relm] 王国, 领域
+- reap [ri:p] 收割, 获取
+- rebel ['rebəl; ri'bel] 叛徒, 谋反
+- recede [ri'si:d] 后退, 退却 == retreat 后退, 退却 -> precede/previous 在...之前 先序于
+- receptacle [ri'septəkl] 容器, 仓库, 贮藏所
+- proclaim == claim 声称, 声明
+- prodigious [prəu'didʒəs] 巨大的, 惊人的, 挥霍的
+- profound [prəu'faund] 深刻的, 深奥的
+- prolific [prəu'lifik] 多产的, 多结果的 == productive
+- prominent ['prɔminənt] 杰出的, 突出的
+- propel [prəu'pel] 推进, 促进 == promote
+- propensity [prəu'pensiti] 倾向, 癖好
+- propose 提出. 主张 -> proposal 求婚, 提议, 提案, proposition 求欢, 建议
+- prose [prəuz] 散文
+- prospect 勘探, 采矿 == exploit -> prospective 未来的, 预期的
+- prosper ['prɔspə] 繁荣, 成功
+- protagonist [prəu'tæɡənist] 领导者, 主角
+- provide -> provision [prəu'viʒən] 供应品
+- provoke [prəu'vəuk] 激怒, 惹怒
+- pry [prai] 撬动
+- screw 螺丝, 螺丝钉, screwdriver 螺丝刀
+- puddle ['pʌdl] 小水洼
+- splash [splæʃ] 溅, 泼水
+- groom [ɡrum] v 理毛, n 马夫, 新郎 == bridegroom
+- bride 新娘
+- thrush [θrʌʃ] 画眉鸟
+- mat [mæt] == blanket 垫子, 毯子, 抠图, 修图 -> **matting**
+- mate ['meɪtɪŋ] 伙伴, 求偶, 交配 -> **mating**
+- preen [prin] 整理羽毛, 搔首弄姿
+- confront [kən'frʌnt] == be faced with/facing
+- ruffle ['rʌf(ə)l] v 弄皱 n 荷叶边
+- wipe [waɪp] 擦, 抹, 拭
+- beak [bik] 鸟喙
+- perch [pɜː(r)tʃ] 鲈鱼, 鸟的高位栖木
+- convict [kən'vɪkt] 宣判, 定罪 be convicted of
+- sentence 宣判, 判决 be sentenced to
+- recount, describe, narrate 重新计数, 讲述, 如数家珍地讲述
+- glimpse [ɡlɪmps] 一撇, 掠影
+- rhetoric -> rhetorical -> rhetorically
+- up-close / close up 近距离的
+- justify == attest 证明...正确, 证实, 作证, 是...的证据
+- brusquely ['brʊsklɪ] 猛然的, 唐突的
+- totemism [təʊ'təmɪzəm] n 图腾主义
+- anthropomorphism [ˌænθrəpəˈmɔrˌfɪzəm] n 人格化, 拟人化
+
+# 2019-07-23
+
+- beast [bist] 野兽, 牲畜
+- fledge [flɛdʒ] 能飞, 长翅膀
+- full-fledged adj 完备的
+- 
