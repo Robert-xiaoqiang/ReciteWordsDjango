@@ -1165,4 +1165,7 @@
 - beast [bist] 野兽, 牲畜
 - fledge [flɛdʒ] 能飞, 长翅膀
 - full-fledged adj 完备的
+- nomadic /nəʊˈmæd.ɪk/  游牧
+- sedentary [ˈsed.ən.tər.i]  久坐不动, 缺少活动
+- irrigate /ˈɪr.ɪ.ɡeɪt/ -> irrigation 灌溉
 - 
