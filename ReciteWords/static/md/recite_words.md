@@ -4,9 +4,13 @@
 
 
 
+#  content
+
 [TOC]
 
-# before 2019-07-14
+# before 2019-07-14 
+
+## [back top](#content)
 
 - depletion, exhaustion
 
@@ -194,7 +198,7 @@
 
 - nectar 花粉
 
-- depiction [dɪ'pɪkʃən] depict [dɪ'pɪkt] 描述, 描绘 == portray == delineate [dɪ'lɪni.eɪt] == denote [dɪ'noʊt] 表示, 标志, 象征, 意味着 == picture, show, display
+- depiction [dɪ'pɪkʃən] depict [dɪ'pɪkt] 描述, 描绘 == portray == delineate [dɪ'lɪni.eɪt] == denote [dɪ'noʊt] 表示, 标志, 象征, 意味着 == draw, picture, show, display
 
 - succulent ['sʌkjulənt] 多汁的
 
@@ -342,7 +346,7 @@
 
 - asphalt['æsfælt] n. 沥青，柏油
 
-- asteroid['æstərɔid] n. 小行星; a. 星状的
+- asteroid['æstərɔid] n. 小行星; a. 星状的 -> meteor ['mitiər] 流星 -> meteoritic [mitɪr'rɪtɪk] 流星的, 陨石的
 
 - astute[ə'stju:t] adj. 机敏的,精明的
 
@@ -772,6 +776,8 @@
 
 # 2019-07-14
 
+## [back top](#content)
+
 - widow ['widəu] 寡妇
 - willow ['wiləu] 柳树
 - windswept ['windswept] 暴露在风中的 adj
@@ -802,6 +808,8 @@
 - vacation [veɪˈkeɪʃ(ə)n] 假期, vocation [vəʊˈkeɪʃ(ə)n] == occupation
 
 # 2019-07-15
+
+## [back top](#content)
 
 - vanilla -> raw/original, 香草冰激凌
 - villain [ˈvilən] 恶棍, 坏人
@@ -915,6 +923,8 @@
 
 # 2019-07-16
 
+## [back top](#content)
+
 - subjugation [ ˌsʌbdʒʊ'ɡeɪʃn ] 镇压, 平息, suppress ?
 - subsidize ['sʌbsidaiz] 补助, 资助
 - subsist [səb'sist] 生存, 存在
@@ -947,7 +957,7 @@
 - strain [strein] 植物种类, 拉伤扭伤, 紧张stress, pressure, 血统物种, vt 过滤
 - strand [strænd] 绳子, 线之一股
 - stringent ['strindʒənt] 严厉的 strict, 周转困难的
-- stroll [strəul] wander, get/hang around, 散步, 闲逛 == roam [rəum]
+- stroll [strəul] wander, get/hang around, 散步, 闲逛 == roam [rəum] 漫游, 闲逛
 - spacious ['speiʃəs] 广大的, 宽广的
 - spawn [spɔ:n] 产卵, 造成, 酿成
 - specimen ['spesimin; -əmən] 样本, 样品
@@ -1000,6 +1010,8 @@
 
 # 2019-07-18
 
+## [back top](#content)
+
 - revise [rɪ'vaɪz] 修正, 修订 -> revision [rɪ'vɪʒ(ə)n] -> review [rɪ'vju] 回顾, 复习, 审核, 审查
 - pedestrian [pə'destriən] 行人, 步行者 -> pedestal ['pedɪst(ə)l]  n 基座, v 给...加基座
 - antique [ænˈtiːk] adj 古老的, n 古董 -> antiquity [æn'tɪkwəti] 古, 古老, 古物
@@ -1016,6 +1028,8 @@
 - scruple ['skru:pl] n 踌躇, 顾忌
 
 # 2019-07-20
+
+## [back top](#content)
 
 - scurry ['skʌri; 'skə:-] 快速疾跑, 疾走
 - season ['si:zən] 季节, v 风干, 晒干
@@ -1035,6 +1049,8 @@
 - rival ['raivəl] vt. 比得上,与…相匹敌; adj. 竞争的; n. 竞争者,匹敌者;
 
 # 2019-07-21
+
+## [back top](#content)
 
 - roar [rɔ:] 吼, 轰鸣
 - rod [rɔd] 杆子, 枝子, steel ~, measureing ~
@@ -1086,6 +1102,8 @@
 
 # 2019-07-22
 
+## [back top](#content)
+
 - deteriorate [dɪˈtɪriəreɪt] 退化, 恶化, 变质
 - recreation == entertainment 消遣, 娱乐
 - reddish ['rediʃ] 淡红色, 微红色
@@ -1098,7 +1116,7 @@
 - reign [rein] 统治, 支配
 - relief [ri'li:f] 浮雕, 浮雕品
 - remnant ['remnənt] 残余的, 残余物
-- renaissance [ri'neisəns; 'renəsɔns; rəne'sɔŋs] 复活, 文艺复兴
+- renaissance [ri'neisəns; 'renəsɔns; rəne'sɔŋs] 复活, 文艺复兴 -> resurgence [rɪ'sɜrdʒəns] 复苏, 苏醒, 复兴
 - renounce [ri'nauns] 断绝关系, 声明放弃
 - repel [ri'pel] 击退, 追逐
 - quadrilateral [,kwɔdri'lætərəl] 四边形的
@@ -1146,7 +1164,7 @@
 - preen [prin] 整理羽毛, 搔首弄姿
 - confront [kən'frʌnt] == be faced with/facing
 - ruffle ['rʌf(ə)l] v 弄皱 n 荷叶边
-- wipe [waɪp] 擦, 抹, 拭
+- wipe [waɪp] 擦, 抹, 拭, 遮蔽
 - beak [bik] 鸟喙
 - perch [pɜː(r)tʃ] 鲈鱼, 鸟的高位栖木
 - convict [kən'vɪkt] 宣判, 定罪 be convicted of
@@ -1162,10 +1180,93 @@
 
 # 2019-07-23
 
+## [back top](#content)
+
 - beast [bist] 野兽, 牲畜
 - fledge [flɛdʒ] 能飞, 长翅膀
 - full-fledged adj 完备的
 - nomadic /nəʊˈmæd.ɪk/  游牧
 - sedentary [ˈsed.ən.tər.i]  久坐不动, 缺少活动
 - irrigate /ˈɪr.ɪ.ɡeɪt/ -> irrigation 灌溉
+- literate ['lɪt(ə)rət] 懂, 有能力, 有水平的
+- portrait ['pɔ:trit; -treit; 'pəu-] 肖像, 画像
+- potash ['pɔtæʃ] 碳酸钾
+- potassium [pə'tæsjəm] 金属钾
+- potent ['pəutənt] 强有力的, 有效的
+- pot 罐子, 壶
+- potty 便壶, 琐碎的 -> squatty
+- pottery 陶瓷, 陶器
+- potter n. 陶工,制陶工人
+- prairie ['prεəri] 大草原
+- preach [pri:tʃ] 步道, 鼓吹
+- precarious [pri'kεəriəs] 不稳定, 危险的
+- precipitate [pri'sipitit; -teit] v 促成, 加速, 猛然落下 n 沉降物, 降雨
+- precursor [pri:'kə:sə; pri-] 先驱, 先兆 == pioneer
+- preponderance [ prɪˈpɒndərəns ] (数量上的) 优势, a ~ of female sth.
+- presume [prɪ'zum] 推定, 认为 -> presumable -> presumably 想必是, 很可能
+- assume 假设
+- pretension [pri'tenʃən; pri:-] 自命, 自称
+- resent [rɪ'zent] 愤恨, 怨恨
+- prevail [pri'veil; pri:-] vi 盛行, 居主导地位
+- primal ['praiməl] 原始的, 最初的 == original
+- primate ['praimeit; -mit] n 灵长类的动物, adj 首要的, 第一的
+- pervasive [pə:'veisiv; pə-] 普遍的, 深入的
+- apathy ['æpəθi] 冷漠, 淡漠
+- petal ['petəl] 花瓣
+- petrol 汽油, 加汽油, petroleum [pi'trəuliəm; pə-] 石油
+- photosynthesis [,fəutə'sinθəsis] 光合作用
+- pigment ['piɡmənt] 色素, 染料
+- pine [pain] n 松树 vi 憔悴, 消瘦
+- lateral == transverse 侧面的, 横向的, 横轴的, 横切的
+- pitch [pɪtʃ] n 沥青, 柏油, 球场, 音高, 间距 v 投, 抛, 推销
+- yaw [jɔ] 偏航
+- yaw roll pitch == view point/direction (z), lateral(x), up vector(y)
+- plague [pleiɡ] 瘟疫, 折磨
+- plank [plæŋk] 厚木板
+- plantation [plæn'teiʃən] 种植园
+- plasma ['plæzmə] 血浆
+- plaster ['plɑ:stə; 'plæs-] 抹泥, 石膏
+- plateau ['plætəu; plæ't-] 高原, 高低
+- plaza ['plɑ:zə] 广场, 购物中心
+- plow [plau] 耕作, 犁地
+- pluck [plʌk] 拔, 扯, 采, 摘
+- refugee [.refjʊ'dʒi] n 难民, v 避难, adj 避难的
+- plummet ['plʌmit] 骤然下落 == plunge [plʌndʒ] 骤降, 暴跌, 突降 == precipitate 促成, 猛然落下
+- swerve [swɜrv] 急转弯
+- pollen ['pɔlin] 花粉
+- population -> populous ['pɔpjuləs] 人口稠密的
+- pore [pɔ:] 小孔, 气孔
+- porpoise ['pɔ:pəs] 海豚
+- painstaking ['peinz,teikiŋ] 辛苦的, 辛勤的
+- pamphlet ['pæmflit] 小册子
+- pancreas ['pænkriəs] 胰, 胰腺
+- paraphrase ['pærəfreiz] 释义, 改写
+- parasite ['pærəsait] 寄生虫
+- pasture ['pɑ:stʃə; 'pæs-] 牧场, 草地
+- patriot ['peitriət] 爱国者
+- patron ['peitrən] 赞助人, 资助人
+- pebble ['pebl] 小鹅卵石
+- peculiar [pi'kju:ljə] 特有的, 专有的, 奇怪的, 异常的 == particular 特别的, 尤其的
+- pedagogy ['pedəɡɔɡi] 教育学, 教育法
+- peer [piə] v 凝视, 仔细看 n 同辈人
+- penchant ['peneʃənt,pā:ŋ'ʃā:ŋ] 爱好, 嗜好 a ~ for sth.
+- pendulum ['pendjuləm; -dʒə-] 摆, 动摇的人
+- penetrate ['penitreit] 穿透, 渗透
+- penicillin [,peni'silin] 盘尼西林, 青霉素
+- peninsula [pi'ninsjulə] 半岛
+- per capita 按人口平均
+- percussion [pə:'kʌʃən] 打击乐器, 振荡
+- perishable ['periʃəbl] 易腐败的, 易怀的
+- perpetuate [pə'petʃueit; -tju-] 使...永存, 使...延续
+- crater ['kreɪtə(r)] n v 火山口, 陨石坑
+- bulge [bʌldʒ] n 突出, 隆起
+- corpus [ˈkɔː(r)pəs] 语料, 文集
+- roam [roʊm] 徜徉, 漫游, 闲逛 == stroll == wander
+- counterpart ['kaʊntər.pɑrt] 配合物, 副本
+- obliterate [ə'blɪtə.reɪt] == destroy == eliminate 毁掉, 清除, 擦去
+
+# 2019-07-24
+
+## [back top](#content)
+
 - 
