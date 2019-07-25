@@ -178,9 +178,9 @@
 
 - bullet ['bʊlɪt] 子弹, 弹丸
 
-- pollinate ['pɑlə.neɪt] 授...粉 pollen ['pɑlən] 花粉
+- pollinate ['pɑlə.neɪt] 授...粉 pollen ['pɑlən] 花粉 -> nectar ['nektə] 花蜜
 
-- pollute 污染
+- pollute 污染 -> pollution -> pollutant
 
 - canal 运河
 
@@ -1082,7 +1082,7 @@
 - rhetoric ['retərik] 修辞, 修辞学
 - ribbon ['ribən] == band 带状物
 - rifle ['raifl] 来复枪
-- rift [rift] 分歧, 裂缝
+- rift [rift] 分歧, 裂缝 == crack
 - sole [soʊl] adj 仅有的, 独占的 == exclusive, exclude
 - communal [kə'mjun(ə)l] 公社的
 - traumatic [trɔ'mætɪk] adj 痛苦的, 创伤的
@@ -1271,4 +1271,55 @@
 
 ## [back top](#content)
 
-- 
+- odor ['əudə] 气味
+- offshore [.ɔf'ʃɔr] 离岸, 近海, 境外的
+- olfactory [ɔl'fæktəri] 嗅觉的
+- onset ['ɔnset; 'ɔ:n-] 开始, 发作
+- ooze out of [u:z] v 渗出, 泄露 n 软泥 == soak, seep
+- orchid ['ɔ:kid] 兰花
+- chrysanthemum [krɪˈsænθəməm] 菊花
+- ore [ɔ:] 矿石
+- ornament ['ɔ:nəmənt; 'ɔ:nəment] 装饰, 装饰物
+- outermost ['autəməust] 最外面的, 最远离中心的
+- outgrow [,aut'ɡrəu] 长得比...快
+- outlying ['aut,laiiŋ] 偏远的的, 偏僻的
+- oven ['ʌvən] 灶, 炉
+- overruturn [,əuvə'tə:n; 'əuvətə:n] 推翻, 翻到, 倾覆
+- oyster ['ɔistə] 生蚝, 牡蛎
+- myriad ['miriəd] n/adj 许多, 无数 a ~ of
+- naked ['neikid] 裸体的, 无遮挡的 == nude
+- nebula ['nebjulə] 星云
+- needle /ˈniː.dəl/ 缝纫工具, 缝衣针
+- negate [ni'ɡeit; 'neɡeit; 'ni:-] -> negative /ˈneɡ.ə.tɪv/
+- neoclassical [ ˌni:əʊˈklæsɪkl ] 新古典主义
+- niche [ni:ʃ; nitʃ] 壁龛, 适当的位置
+- nickel ['nikəl] 镍金属, 5分硬币
+- nostalgia [nɔ'stældʒiə; nə-] 思家病, 怀旧
+- nostril ['nɔstril; -trəl] 鼻孔, 鼻孔内壁
+- notable ['nəutəbl] adj 重要的, 显要的 n 名人, 要人
+- notion == opinion == view point == insight
+- notwithstanding [,nɔtwiθ'stændiŋ; -wið-] 虽然, 尽管 == although
+- nourish /ˈnʌr.ɪʃ/  养育, 滋养 == feed
+- noxious ['nɔkʃəs] 有害的, 有毒的 == poisonous
+- oblige [ə'blaidʒ] 迫使, 责成 be supposed/obliged to == ought to do
+- obscure [əb'skjuə; ɔb-] adj 模糊的, 晦涩的 v 隐藏, 使模糊
+- obsess [ɔb'ses] 缠住, 迷住, 使烦扰
+- raft [ræft] 木筏, 橡皮艇
+- eventful 多事故的, 多变故的 -> uneventful 平淡无奇的, 平淡的
+- coral ['kɔrəl] 珊瑚, 珊瑚虫
+- preamble 序言, 绪论 perface/surface
+- subduction [səb'dʌkʃən] 扣除 == deduct 削减, 降低, **俯冲**
+- seafloor == the floor of sea
+- mantle ['mænt(ə)l] n 地幔, 斗篷, 披风
+- plume [plum] 羽毛, 翎, 烟羽, 羽流
+- mantle plume 地函热柱
+- lava 熔岩, 岩浆
+- monopolize [mə'nɑpə.laɪz] 垄断, 独占 独霸
+- commute [kə'mjut] 通勤 communicate 沟通, 交流 -> compute 计算
+- millennium [mɪ'leniəm] 千禧年
+- escalation [ˌeskə'leɪʃ(ə)n] 升级, 扩大 -> extend, extensive, extension 延伸, 扩展 -> expand, expansion 时间, 空间上的延伸, 扩大
+
+# 2019-07-25
+
+## [back top](#content)
+
