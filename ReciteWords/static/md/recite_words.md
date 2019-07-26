@@ -766,7 +766,7 @@
 
 - notorious [nə'tɔriəs] [nə'tɔriəs] 声名狼藉的, 臭名昭著的 notorious, notorious, notorious
 
-- fluctuation [.flʌktʃu'eɪʃ(ə)n] 波动, 起伏
+- fluctuate 波动, 浮动 -> fluctuation [.flʌktʃu'eɪʃ(ə)n] 波动, 起伏
 
 - fracture 骨折
 
@@ -821,7 +821,7 @@
 - warp [wɔ:p] 卷曲, 翘曲
 - wrap wraaper [ræp] 包上, 裹上, pack, box
 - warrant ['wɔrənt; 'wɔ:-] 令状, 许可
-- wary ['wεəri] cautious, careful 小心翼翼的, 机警小心的
+- wary ['wεəri] cautious, careful 小心翼翼的, 机警小心的 == meticulous [mɪ'tɪkjələs] 细心的, 谨慎的
 - magistrate [ˈmædʒɪˌstreɪt] 地方行政长官
 - wax [wæks] 封蜡, 上蜡于
 - tackle ['tæk(ə)l] == solve
@@ -1021,7 +1021,7 @@
 - indigenous [ɪn'dɪdʒənəs] 土著的, 土产的, 原产的
 - concentric [kən'sentrɪk] 同心的, 同轴的
 - iconography [.aɪkə'nɑɡrəfi] 图示法, 图像法
-- motif [moʊ'tif] 特色, 花纹, (图案的)基本花纹
+- motif [moʊ'tif]  (图案的)基本花纹, (作品的)主题, 主旨
 - pavement ['peɪvmənt] 石铺板路
 - peck [pek] 啄, 匆匆的吻
 - informant [inˈfɔː(r)mənt] 线人, 提供消息者
@@ -1287,7 +1287,7 @@
 - overruturn [,əuvə'tə:n; 'əuvətə:n] 推翻, 翻到, 倾覆
 - oyster ['ɔistə] 生蚝, 牡蛎
 - myriad ['miriəd] n/adj 许多, 无数 a ~ of
-- naked ['neikid] 裸体的, 无遮挡的 == nude
+- naked ['neikid] 裸体的, 无遮挡的 == nude == bare, barely
 - nebula ['nebjulə] 星云
 - needle /ˈniː.dəl/ 缝纫工具, 缝衣针
 - negate [ni'ɡeit; 'neɡeit; 'ni:-] -> negative /ˈneɡ.ə.tɪv/
@@ -1301,7 +1301,7 @@
 - notwithstanding [,nɔtwiθ'stændiŋ; -wið-] 虽然, 尽管 == although
 - nourish /ˈnʌr.ɪʃ/  养育, 滋养 == feed
 - noxious ['nɔkʃəs] 有害的, 有毒的 == poisonous
-- oblige [ə'blaidʒ] 迫使, 责成 be supposed/obliged to == ought to do
+- oblige [ə'blaidʒ] 迫使, 责成  obligate ['ɒblɪgeɪt] 强制, 义务 obligation, obligability, be supposed/obliged to == ought to do
 - obscure [əb'skjuə; ɔb-] adj 模糊的, 晦涩的 v 隐藏, 使模糊
 - obsess [ɔb'ses] 缠住, 迷住, 使烦扰
 - raft [ræft] 木筏, 橡皮艇
@@ -1323,3 +1323,75 @@
 
 ## [back top](#content)
 
+- lump [lʌmp] 块, 隆起
+- jar 缸, 坛子
+- jam 果酱, 交通拥堵
+- legible ['ledʒəb(ə)l] 清晰可见的
+- monumental [.mɑnjə'ment(ə)l] 不朽的
+- statue [ˈstætʃu] == statuary ['stætʃu.eri] 雕像 == relief 浮雕 -> 其他意义 relief, relieve 如释重负
+- faience [faɪ'ɑns] 彩釉陶器 <<< pottery
+- galley ['ɡæli] 大划艇 -> gallery [ˈɡæləri] 画廊, 图库 -> galaxy ['ɡæləksi] 星系, 银河
+- row n y-coordinate, v 吵架, 划船送某人
+- propel [prə'pel] propelled 驱动, 推动, 促使 == stimulate, boost, promote
+- centigrade ['sentɪ.ɡreɪd] 摄氏的, 摄氏度的 == celsius
+- procure [prə'kjʊr] 取得, 诱使妇女麦银
+- peninsula [pi'ninsjulə] 半岛
+- scarce, scarcely 仅仅, 几乎不, 缺乏-> scarcity 缺乏, 不足, 稀少
+- oak [əʊk] 橡树, 栎树
+- cling  [klɪŋ] ~ to == stick to 坚持, 坚信, 依恋, 黏, 粘, 坚守 -> 过去式, 过去分词 clung
+- vessel ['ves(ə)l] 植物的导管, 筛管, **容器, 船只**
+- Portugal 葡萄牙 -> Portuguese [.pɔrtʃə'ɡiz] 葡萄牙人, 葡萄牙人的, 葡萄牙的
+- caravan ['kerə.væn] 大篷车, 旅行拖车
+- mediterranean [.medɪtə'reɪniən] 地中海, 地中海的
+
+# 2019-07-26
+
+## [back up](#content)
+
+- paginate ['pædʒə.neɪt] 分页, 给...标页码
+- meticulous [mɪ'tɪkjələs] 细心的, 谨慎的
+- metropolis [mi'trɔpəlis; me-] -> metropolitan [.metrə'pɑlɪt(ə)n]  市镇, 都市 -> municipal [mju:'nisipəl] 市级的, 市的, 市政的 -> principal 主要的, 校长, 校长的
+- microbe ['maikrəub] 微生物
+- microscope -> microscopic [,maikrə'skɔpik] 极小的
+- midair [,mid'εə] 半空中
+- mill [mil] 磨坊. 工厂
+- mimic ['mimik] v/n 模仿, 模拟 == imitate, imitation
+- mine -> miner -> mineral 矿物, 无机物
+- miniature ['miniətʃə] 缩略, 缩影
+- mint [mɪnt] n 薄荷 铸币厂, v 铸币
+- sprinkle ['sprɪŋk(ə)l] 撒, 洒, 淋
+- chop [tʃɑp] 砍, 劈, 切碎
+- miniscule == minuscule -> 极少量的, 少量的
+- minutely -> minute 详细的, 细微的
+- moisture ['mɔistʃə] 潮气, 湿度
+- mould == mold [məuld] 霉菌, 模具, 铸模
+- molecule ['mɑlə.kjul] 分子 -> molecular [mə'lekjələr] 分子的
+- money -> monetary ['mʌnitəri 货币的, 金钱的
+- monochrome ['mɔnəkrəum] 单色的, 一色的
+- monotonous [mə'nɔtənəs] 单调乏味的 == boring
+- mourn 哀悼
+- monument ['mɔnjumənt] 纪念物, 纪念碑 -> 个人纪念品 souvenir [ˌsuːvəˈnɪər(r)]
+- mosaic [məu'zeiik] 马赛克
+- moss [mɔs] 苔藓
+- moth [mɔθ; mɔ:θ] 飞虫, 飞蛾
+- mundane [,mʌn'dein; 'mʌnd-] 世俗的, 平凡的
+- mural ['mjuərəl] 壁画, 壁饰
+- lyric ['lirik] 抒情诗, 歌词
+- magma ['mæɡmə] 稀糊状
+- magnesium [mæɡ'ni:ziəm; -ʃi-] 镁金属
+- maize [meiz] == corn 玉米 == 妹子 ???
+- majestic [mə'dʒestik] 壮丽辉煌 -> 庄严, 威严
+- splendid 人 行为, 品德, 性格 杰出, 极好
+- magnificent 环境, 建筑物 辉煌
+- noble [ˈnəʊbl] 贵族, 出身高贵, 崇高的 adj/n
+- mammoth ['mæməθ] 猛犸象, 巨大的
+- mandate ['mændeit] 命令要求 == command, 其他意义 授权 authorize
+- tackle ['tæk(ə)l] == solve 处理, 对付
+- maneuver [məˈnʊvər] 用计, 花招
+- manifest -> manifestation == presentation 展示, 显示
+- mansion ['mænʃən] 大厦, 公寓
+- marine -> meritime 海事的
+- marrow ['mærəu] 骨髓, 精髓
+- marvelous ['mɑrvələs] 了不起的 -> so good???
+- mason ['meisən] 泥瓦匠
+- drain [dreɪn] 排空, 放干 -> drainage ['dreɪnɪdʒ] 排水系统 -> drained 排空的, 精疲力竭的
