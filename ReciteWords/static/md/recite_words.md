@@ -414,7 +414,7 @@
 
 - barn 谷仓, 畜牧棚子
 
-- excavate  ['ekskə.veɪt] 挖掘, 开发, 剥削, exploit, exploitation
+- excavate  excavation ['ekskə.veɪt] (考古学家)挖土, 挖掘 -> 开发, 剥削, exploit, exploitation
 
 - cultivate  ['kʌltɪ.veɪt] 栽培, 培养
 
@@ -902,7 +902,7 @@
 - tenant ['tenənt] 承租人, 房客 -> tenement ['tenimənt] 承租的房子
 - tentacle ['tentəkl] 触角, 触须, 触手
 - terrace ['terəs; -is] 梯田, 看台
-- meteorite ['mitiə.raɪt] 陨石
+- meteorite ['mitiə.raɪt] 陨石, 陨星
 - planetoid ['plænəˌtɔɪd] 小行星, asteroid ['æstə.rɔɪd]
 - plummet ['plʌmɪt] 暴跌, 骤降
 - specimen ['spesəmən] 标本, 样片
@@ -1205,7 +1205,7 @@
 - precipitate [pri'sipitit; -teit] v 促成, 加速, 猛然落下 n 沉降物, 降雨
 - precursor [pri:'kə:sə; pri-] 先驱, 先兆 == pioneer
 - preponderance [ prɪˈpɒndərəns ] (数量上的) 优势, a ~ of female sth.
-- presume [prɪ'zum] 推定, 认为 -> presumable -> presumably 想必是, 很可能
+- presume [prɪ'zum] [prɪ'zjuːməbl] 推定, 认为 -> presumable -> presumably 想必是, 很可能
 - assume 假设
 - pretension [pri'tenʃən; pri:-] 自命, 自称
 - resent [rɪ'zent] 愤恨, 怨恨
@@ -1266,6 +1266,7 @@
 - roam [roʊm] 徜徉, 漫游, 闲逛 == stroll == wander
 - counterpart ['kaʊntər.pɑrt] 配合物, 副本
 - obliterate [ə'blɪtə.reɪt] == destroy == eliminate 毁掉, 清除, 擦去
+- deteriorate [dɪˈtɪriəreɪt] 退化, 恶化, 变质, 败坏风俗
 
 # 2019-07-24
 
@@ -1346,7 +1347,7 @@
 
 # 2019-07-26
 
-## [back up](#content)
+## [back top](#content)
 
 - paginate ['pædʒə.neɪt] 分页, 给...标页码
 - meticulous [mɪ'tɪkjələs] 细心的, 谨慎的
@@ -1395,3 +1396,65 @@
 - marvelous ['mɑrvələs] 了不起的 -> so good???
 - mason ['meisən] 泥瓦匠
 - drain [dreɪn] 排空, 放干 -> drainage ['dreɪnɪdʒ] 排水系统 -> drained 排空的, 精疲力竭的
+
+# 2019-07-27
+
+## [back top](#content)
+
+- maternal [mə'tə:nl] 母系的, 母亲的
+- mature [mə'tjuə] 成熟的 -> maturity [mə'tʃʊrəti] 成熟
+- meager ['miɡər] 贫弱的, 不足的
+- meander [mi'ændə] 曲曲折折地流, 蜿蜒
+- melancholy ['melənkəli] n 忧郁, adj 忧郁的, 令人感伤的
+- melody ['melədi] 悦耳的音调
+- mercury ['mə:kjuri] 汞金属, 水银, 水星
+- mesozoic [ˌmɛsoʊ'zoʊɪk] 中生代, 地理, 地质学
+- medieval [.medi'iv(ə)l] 中世纪的
+- metabolic -> metabolism 代谢, 新陈代谢
+- lease [li:s] 出租, 借租
+- ledge [ledʒ] 墙壁架子, 岩架子
+- legal -> legislate ['ledʒɪ.sleɪt] v 立法
+- cappuccino [ˈkæpuˈtʃiːnəʊ] 卡布奇诺
+- discourse == comment 谈, 演讲, 演说, 话语, 语篇
+- gratuitous [ɡrə'tuɪtəs] 无缘无故的, 无正当理由的, 无谓的
+- levy ['levi] 征收, 索取
+- liberty ['libəti] 自由
+- lichen ['laikən] 苔藓 == moss
+- limb [lim] 肢体, 羽翼, 树枝, on a ~ 孤立无援, 冒险
+- limestone ['laimstəun] 石灰石
+- limner ['lɪmə] 画师, 画匠
+- lipid ['lipid; 'laipid] 脂类, 甘油酸
+- listless ['listlis] 无精打采的
+- lithosphere ['lɪθəsfɪə(r)] 岩石圈, 岩层圈
+- litter ['litə] 垃圾, 丢垃圾, a litter of ...
+- lizard ['lizəd] 蜥蜴
+- locomotion == motion == movement
+- lodge [lɔdʒ] 上诉, 卡住, 卡在某处, 为某人安排住处
+- atrium ['eɪtriəm] 心房
+- ventricle ['ventrɪk(ə)l] 心室
+- zo ology [zu'ɑlədʒi] 动物学
+- panorama [.pænə'ræmə] 全景, 全景图
+- manga [ˈmæŋɡə] 日式动漫
+- loom [lu:m] 织布机, 隐约闪现
+- lubrication [ˌluːbrɪ'keɪʃ(ə)n] 润滑, 润滑作用
+- lucrative ['lju:krətiv] 赚钱的, 有利可图的
+- lumber ['lʌmbə] 木材, 木料
+- luminous ['lju:minəs] 发光的, 发亮的 -> bright, shine
+- lump [lʌmp] 成块, 成团
+- lure [ljuə] vt. 引诱,诱惑; n. 饵,诱惑; == tempt
+- lust [lʌst] 欲望, 贪欲 == eager
+- exterimate [ɪkˈstɜː(r)mɪneɪt] 赶尽杀绝 -> extermination == extinction
+- mortal ['mɔrt(ə)l] 凡人, 终有一死的, adv 很, 非常 -> mortality 死亡率
+- presume [prɪ'zum]  -> presumable -> presumably
+- blade [bleɪd] 刀片, 桨叶
+- curate [kjə'reɪt] 助理牧师, 管理
+- substantial [səb'stænʃ(ə)l] 相当大的, 可观的, 大而坚固的
+- inevitable [ɪn'evɪtəb(ə)l 不可避免的, 必然发生的 -> evitable
+- humble ['hʌmb(ə)l] v adj  -> humbleness == modest ['mɑdəst] -> modesty ['mɑdəsti], 谦虚, 谦逊 + **朴素** == naive/simple/plain
+- mast [mæst] 桅杆, 旗杆, 天线杆
+- shatter [ˈʃætə(r)] 粉碎, 碎片
+- oven ['ʌv(ə)n] 烤箱, 烤炉
+- elusive [ɪ'lusɪv] 难懂的, 难以理解的
+- afield [ə'fild] 在战场, 在野外 -> aboard
+- 
+
