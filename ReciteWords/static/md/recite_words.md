@@ -558,7 +558,11 @@
 
 - elicit [ɪ'lɪsɪt] from 得出, 引出, 引诱出
 
-- conform 顺从, 服从
+- conform 顺从, 服从 -> conformity
+
+- $$
+   conformity \approx consitence/coherence
+   $$
 
 - group-devised [dɪˈvaɪz] 群体设计/制定的
 
@@ -1169,7 +1173,7 @@
 - wipe [waɪp] 擦, 抹, 拭, 遮蔽
 - beak [bik] 鸟喙
 - perch [pɜː(r)tʃ] 鲈鱼, 鸟的高位栖木
-- convict [kən'vɪkt] 宣判, 定罪 be convicted of
+- convict [kən'vɪkt] 宣判, 定罪 be convicted of -> conviction 定罪, 坚信, 信念 == belief/trust/self-reliance/self-assurance
 - sentence 宣判, 判决 be sentenced to
 - recount, describe, narrate 重新计数, 讲述, 如数家珍地讲述
 - glimpse [ɡlɪmps] 一撇, 掠影
@@ -1267,6 +1271,7 @@
 - counterpart ['kaʊntər.pɑrt] 配合物, 副本
 - obliterate [ə'blɪtə.reɪt] == destroy == eliminate 毁掉, 清除, 擦去
 - deteriorate [dɪˈtɪriəreɪt] 退化, 恶化, 变质, 败坏风俗
+- impair 损害, 使变弱 injure/weaken???
 
 # 2019-07-24
 
@@ -1325,7 +1330,7 @@
 ## [back top](#content)
 
 - lump [lʌmp] 块, 隆起
-- jar 缸, 坛子
+- jar 缸, 坛子 广口瓶, vt. 震动,刺激,震惊
 - jam 果酱, 交通拥堵
 - legible ['ledʒəb(ə)l] 清晰可见的
 - monumental [.mɑnjə'ment(ə)l] 不朽的
@@ -1334,7 +1339,7 @@
 - galley ['ɡæli] 大划艇 -> gallery [ˈɡæləri] 画廊, 图库 -> galaxy ['ɡæləksi] 星系, 银河
 - row n y-coordinate, v 吵架, 划船送某人
 - propel [prə'pel] propelled 驱动, 推动, 促使 == stimulate, boost, promote
-- centigrade ['sentɪ.ɡreɪd] 摄氏的, 摄氏度的 == celsius
+- centigrade ['sentɪ.ɡreɪd] 摄氏的, 摄氏度的 == celsius -> fahrenheit
 - procure [prə'kjʊr] 取得, 诱使妇女麦银
 - peninsula [pi'ninsjulə] 半岛
 - scarce, scarcely 仅仅, 几乎不, 缺乏-> scarcity 缺乏, 不足, 稀少
@@ -1456,5 +1461,84 @@
 - oven ['ʌv(ə)n] 烤箱, 烤炉
 - elusive [ɪ'lusɪv] 难懂的, 难以理解的
 - afield [ə'fild] 在战场, 在野外 -> aboard
-- 
 
+# 2019-07-28
+
+## [back top](#content)
+
+- invertebrate [in'və:tibrət; -breit] n/adj 无脊椎动物的
+- bolt [boʊlt] 螺栓, 插销, 狼吞虎咽
+- inviting [in'vaitiŋ] 诱人的, 引人心动的
+- ion ['aiən] -> ionic [aɪ'ɑnɪk] 离子, 离子的
+- irony ['aiərəni] 讽刺
+- resist -> resistible -> irresistible 不可抗拒的, 无法抵挡的
+- reverent ['rev(ə)rənt] 非常尊敬的 -> irreverent
+- jelly ['dʒeli] 果冻, 胶状物
+- jolt [dʒəult] n/vt 颠簸, 使颠簸
+- jumble ['dʒʌmbl] n/vt 杂乱, 使杂乱
+- jurisdiction [,dʒuəris'dikʃən] 特权, 管辖范围 -> privilege 特权 ->  peculiar 古怪的, 奇异的, (宗教方面)特权
+- jury ['dʒuəri] 陪审团
+- keen [ki:n] 敏锐, 敏捷 -> be keen on == be fond of
+- kerosene ['kerə.sin] 煤油
+- kiln [kiln; kil] 窑, 炉
+- lash [læʃ] 鞭子, 鞭打
+- lavish ['læviʃ] 过分丰富的, 浪费的
+- kettle ['ket(ə)l] 水壶
+- tactic -> tactical strategy -> strategical 战略, 策略
+- warehouse == the house of some wares
+- jaw [dʒɔ:] 颌骨, 鄂骨
+- larva ['lɑ:və] 幼虫 == infant  -> infantile ['ɪnfən.taɪl]
+- lathe [leið] 车床
+- penetrate ['penə.treɪt] -> penetration [.penə'treɪʃ(ə)n] 渗透, 计算机网络安全领域
+- permeable ['pɜrmiəb(ə)l] -> permeability 通透性, 渗透性
+- osmosis [ɑz'moʊsɪs] n 渗透, 耳濡目染, 潜移默化
+- aerial ['eriəl] 航空的, 空气的, 空中的 n 天线 == antenna
+- arena [ə'rinə] 圆形运动场, 圆形剧场
+- infest [in'fest] vt 骚扰, 大量滋生
+- influx ['inflʌks] 流入, 汇集
+- genius n 天才 -> ingenious [inˈdʒiːnɪərs] 机灵的, 有独创性的(形容物, 手艺) -> ingenuity [.ɪndʒə'nuəti] 独创力, 心灵手巧
+- contiguous [kən'tɪɡjuəs] 相邻的, 相接的, 邻接的 == adjacent
+- inherent [in'hiərənt] 固有的, 内在的 == intrinsic/interior feature
+- insulate ['insjuleit; 'insə-] 使隔绝, 使孤立 -> insulation, inheritance, polymorphism
+- insult [in'sʌlt] 侮辱, 欺凌
+- intact [in'tækt] 尚未被人碰到的, 完整的
+- stellar ['stelər] adj 星星的, 恒星的 -> interstellar == galaxy
+- intestine [in'testin] 肠子
+- intoxication [ ɪnˌtɒksɪ'keɪʃn ] 中毒, 沉醉, 陶醉
+- intricate ['intrikət] 错综复杂的
+- punctuation -> punctuate ['pʌŋktʃu.eɪt] 给...加标点符号, 不时打断, 使间断
+- monk [mʌŋk] 僧侣, 和尚
+- at brook/dawn/twilight [ˈtwaɪˌlaɪt] -> dusk
+- practice 练习 -> practical -> impractical [ɪm'præktɪk(ə)l] 不切实际的, 不现实的, 不明智的(愚蠢的 unwise) -> practitioner 实践者
+- rudimentary [.rudə'ment(ə)ri] == primary/elementary/basic
+- genesis ['dʒenəsɪs] 创世纪
+- rat/mouse/mice [ræt] n 老鼠, 耗子 小人 vt 责骂, 脱党,  脱离政党
+- maze 迷宫 麦子???
+- impoverish [ɪm'pɑv(ə)rɪʃ] 使穷困潦倒
+- synaptic [sɪ'næptɪk] 突触的
+- cerebellum [.serə'beləm] 小脑 -> cerebrum [sə'ribrəm] 大脑 -> brain stem 脑干
+- bow [baʊ] adj/v 鞠躬, 弯腰, 低头, n 蝴蝶结
+- hurl [hə:l] 用力投掷
+- impasse ['ɪm.pæs] 僵局, 死路 == unable to pass
+- ichthyosaur ['ɪkθɪrˌsɔr] 鱼龙, 龙鱼
+- ideology [,aidi'ɔlədʒi; ,idi-] 意识形态学
+- immediate adj. 立即的,（在时空上、关系上）最接近的,目前的
+- mobile -> mobilize -> immobilize
+- mortal -> mortality -> immortal adj/n 不死的人或物
+- impart [im'pɑ:t] 传递, 传达
+- ginger [ˈdʒɪndʒə(r)], garlic [ˈɡɑː(r)lik], pepper ['pepər]
+- impediment [im'pedimənt] 阻碍, 妨碍 == obstacle -> pediment ['pedɪmənt] 建筑山花, 山墙
+- impervious [im'pə:viəs] 不可渗透 == no soak/seep/ooze out of 
+- improvise ['imprəvaiz] 即兴表演
+- inanimate [in'ænimət] adj 无生命的
+- incentive [in'sentiv] 动机 == motivation
+- incessant [in'sesənt] 不停的, 连续的 == continuous
+- incline ['ɪn.klaɪn] v/n 斜面, 倾斜 -> inclination 倾斜度, 嗜好
+- congruous ['kɒngrʊəs] == consistent/coherent == in accordance with -> congruent ['kɑŋɡruənt] 全等, 同余
+- incubate ['inkjubeit] 孵卵, 孵化
+- dispense [dɪ'spens] == distribute -> dispensable [dɪ'spensəb(ə)l] 可有可无, 不重要的 -> indispensable 不可获取, 必须的, 必要的 == esential/necessary/vital(活力, 生命值 vality [vaɪ'tæləti])
+- induce [in'dju:s; in'du:s] 诱导 == tempt, 促使, 引产
+- clear -> clarity -> clarify v.澄清；阐明；净化；使更清晰易懂???
+- justify == confirm == attest to sth. == testfy -> detest 讨厌, 厌恶 -> justice 公平,  正义, 司法, 审判 -> fair/fairness 公平
+- civil == civilian == citizen 公民 -> civilization 文明
+- council ['kaʊns(ə)l] 政府理事会, 委员会
