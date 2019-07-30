@@ -650,7 +650,7 @@
 
 - plumage 羽毛, feather 毛皮, 皮毛, squirrel 小松鼠
 
-- drift [drift] 漂流, 漂泊, 漂流物 vt vi n
+- drift [drift] 漂流, 漂泊, 漂流物 vt vi n -> drain 排空, 耗尽, 放干
 
 - drip(水, 液体) drop 滴, 下落, 落下, 下降, 终止
 
@@ -1535,10 +1535,55 @@
 - incessant [in'sesənt] 不停的, 连续的 == continuous
 - incline ['ɪn.klaɪn] v/n 斜面, 倾斜 -> inclination 倾斜度, 嗜好
 - congruous ['kɒngrʊəs] == consistent/coherent == in accordance with -> congruent ['kɑŋɡruənt] 全等, 同余
-- incubate ['inkjubeit] 孵卵, 孵化
+- incubate ['inkjubeit] 孵卵, 孵化 == hatch
 - dispense [dɪ'spens] == distribute -> dispensable [dɪ'spensəb(ə)l] 可有可无, 不重要的 -> indispensable 不可获取, 必须的, 必要的 == esential/necessary/vital(活力, 生命值 vality [vaɪ'tæləti])
 - induce [in'dju:s; in'du:s] 诱导 == tempt, 促使, 引产
 - clear -> clarity -> clarify v.澄清；阐明；净化；使更清晰易懂???
 - justify == confirm == attest to sth. == testfy -> detest 讨厌, 厌恶 -> justice 公平,  正义, 司法, 审判 -> fair/fairness 公平
 - civil == civilian == citizen 公民 -> civilization 文明
 - council ['kaʊns(ə)l] 政府理事会, 委员会
+
+# 2019-07-29
+
+## [back top](#content)
+
+- devise [dɪˈvaɪz] == design v/n 设计, 制定, 想出, 策划
+- handful ['hændful] 一把, 少数
+- yank [jæŋk] 猛拉, 扯
+- yarn [jɑrn] 纱, 纱线, 故事, 讲故事
+- excerpt ['ek.sɜrpt] n/vt 摘录, 节选
+- harmony ['hɑrməni] -> harmonious [hɑ:'məunjəs] 和谐的
+- harness ['hɑ:nis] vt 利用...产生动力, n 全套马具
+- harsh [hɑ:ʃ] 粗糙刺耳, 刻薄严厉, 环境恶劣
+- incubate 还有 逐渐发展, 酝酿之意 == hatch 孵化
+- haul [hɔ:l] == drag 拖, 拖拉, 扯, 拽
+- haunt [hɔ:nt] vt 萦绕心头, n 常去的地方
+- hazard ['hæzəd] -> conflict -> speculation
+- heed [hi:d] == care -> take ~ of 注意, 留意
+- helium ['hi:liəm] -> $He$
+- hydrogen -> $H_2$
+- nitrogen ['naɪtrədʒən]  $N_2$
+- oxygen $O_2$
+- carbon $C$ -> carbon dioxide $CO_2$
+- mercury $Hg$
+- herald ['herəld] 预示...的来临
+- heredity -> heritage 继承, 遗产
+- hexadecimal -> hexagon 六边形
+- hibernate ['haibəneit] 冬眠 -> `JPA, Spring, WTF???`
+- hinterland ['hintəlænd] 穷乡僻壤, 腹地
+- hive [haiv] 蜂巢, 蜂房 -> `HDFS, HBase, k8s, WTF???`
+- hollow ['hɔləu] 中空的
+- hominid ['hɑmənɪd] 原始人科的, 原始人类的
+- hormone ['hɔ:məun] 荷尔蒙
+- hostile ['hɔstail; -təl] == aggresive == unfriendly 敌对的, 不友好的
+- harbor == harbour 海港 -> bay 海湾
+- hover ['hɔvə; 'hʌ-]  vi 翱翔, 徘徊
+- goof [ɡuf] 呆瓜, 自找麻烦者 -> goofing off 吊儿郎当 == 摸鱼 == 划水
+- liberty ['lɪbərti] == freedom 自由
+- labor ['leɪbə(r)] -> laboratory ['læbrə.tɔri] 实验室, 实验大楼
+
+# 2019-07-30
+
+## [back top](#content)
+
+- 
