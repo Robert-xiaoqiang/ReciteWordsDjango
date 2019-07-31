@@ -834,7 +834,7 @@
 - erosion [ɪ'roʊʒ(ə)n] 腐蚀, 糜烂
 - dome [doʊm] 穹顶, 拱起
 - rim [rɪm] 轮圈, 车圈
-- deposit [dɪˈpɑː.zɪt]  沉积, 堆积, n 堆积物, 押金, 定金 -> deposition [.dipə'zɪʃ(ə)n] 其他意思: 免职, 罢免
+- deposit [dɪˈpɑː.zɪt]  堆积, n 堆积物, 押金, 定金 -> deposition [.dipə'zɪʃ(ə)n] 其他意思: 免职, 罢免
 - oust [aʊst] 罢黜, 剥夺  == depose [dɪ'poʊz] 罢免, 免职
 - turbulent ['tə:bjulənt] 吵闹的, 狂躁的
 - turnpike ['tə:npaik] 收费高速公路
@@ -1356,7 +1356,7 @@
 
 - paginate ['pædʒə.neɪt] 分页, 给...标页码
 - meticulous [mɪ'tɪkjələs] 细心的, 谨慎的
-- metropolis [mi'trɔpəlis; me-] -> metropolitan [.metrə'pɑlɪt(ə)n]  市镇, 都市 -> municipal [mju:'nisipəl] 市级的, 市的, 市政的 -> principal 主要的, 校长, 校长的
+- metropolis [mi'trɔpəlis; me-] -> metropolitan [.metrə'pɑlɪt(ə)n]  市镇, 都市 -> municipal [mju:'nisipəl] 市级的, 市的, 市政的 -> principal 主要的, 校长, 校长的 -> council ['kaʊns(ə)l] 政府委员会, 市政服务机构
 - microbe ['maikrəub] 微生物
 - microscope -> microscopic [,maikrə'skɔpik] 极小的
 - midair [,mid'εə] 半空中
@@ -1388,7 +1388,7 @@
 - maize [meiz] == corn 玉米 == 妹子 ???
 - majestic [mə'dʒestik] 壮丽辉煌 -> 庄严, 威严
 - splendid 人 行为, 品德, 性格 杰出, 极好
-- magnificent 环境, 建筑物 辉煌
+- magnificent (环境, 建筑物)辉煌
 - noble [ˈnəʊbl] 贵族, 出身高贵, 崇高的 adj/n
 - mammoth ['mæməθ] 猛犸象, 巨大的
 - mandate ['mændeit] 命令要求 == command, 其他意义 授权 authorize
@@ -1458,7 +1458,7 @@
 - humble ['hʌmb(ə)l] v adj  -> humbleness == modest ['mɑdəst] -> modesty ['mɑdəsti], 谦虚, 谦逊 + **朴素** == naive/simple/plain
 - mast [mæst] 桅杆, 旗杆, 天线杆
 - shatter [ˈʃætə(r)] 粉碎, 碎片
-- oven ['ʌv(ə)n] 烤箱, 烤炉
+- oven ['ʌv(ə)n] 烤箱, 烤
 - elusive [ɪ'lusɪv] 难懂的, 难以理解的
 - afield [ə'fild] 在战场, 在野外 -> aboard
 
@@ -1533,7 +1533,7 @@
 - inanimate [in'ænimət] adj 无生命的
 - incentive [in'sentiv] 动机 == motivation
 - incessant [in'sesənt] 不停的, 连续的 == continuous
-- incline ['ɪn.klaɪn] v/n 斜面, 倾斜 -> inclination 倾斜度, 嗜好
+- incline ['ɪn.klaɪn] v/n 斜面, 倾斜 -> inclination 倾斜度, 嗜好 == hobby/appetite
 - congruous ['kɒngrʊəs] == consistent/coherent == in accordance with -> congruent ['kɑŋɡruənt] 全等, 同余
 - incubate ['inkjubeit] 孵卵, 孵化 == hatch
 - dispense [dɪ'spens] == distribute -> dispensable [dɪ'spensəb(ə)l] 可有可无, 不重要的 -> indispensable 不可获取, 必须的, 必要的 == esential/necessary/vital(活力, 生命值 vality [vaɪ'tæləti])
@@ -1553,7 +1553,7 @@
 - yarn [jɑrn] 纱, 纱线, 故事, 讲故事
 - excerpt ['ek.sɜrpt] n/vt 摘录, 节选
 - harmony ['hɑrməni] -> harmonious [hɑ:'məunjəs] 和谐的
-- harness ['hɑ:nis] vt 利用...产生动力, n 全套马具
+- harness ['hɑ:nis] vt 利用...产生动力, n 全套马具 e.g. ~ solar and wind energy
 - harsh [hɑ:ʃ] 粗糙刺耳, 刻薄严厉, 环境恶劣
 - incubate 还有 逐渐发展, 酝酿之意 == hatch 孵化
 - haul [hɔ:l] == drag 拖, 拖拉, 扯, 拽
@@ -1586,4 +1586,118 @@
 
 ## [back top](#content)
 
-- 
+- botany ['bɒtəni] 植物学 -> zoology [zu'ɑlədʒi] 动物学
+- endeavor == endeavour [ɪn'devər] 努力 hard works / efforts / attempts
+- curb [kɜrb] 勒马索, suppress, inhibit
+- uninterested 不感兴趣的
+- disinterested 无利益相关的, 无私的selfless, 客观的objective
+- suspect ['sʌ.spekt] -> suspicious [sə'spɪʃəs] -> suspicion [sə'spɪʃ(ə)n] 怀疑, 怀疑的, 猜疑, 嫌疑
+- glam, glamorous 迷人, 魅力 == charm, charning, fascinate, fascinating
+- titanic [taɪˈtænik] 巨大的, 强大的
+- radiance ['reɪdiəns] 光辉, 容光焕发
+- excalibur [eks'kælibə] 圣剑
+- distillation [ˌdistiˈleɪʃ(ə)n] 蒸馏, 精馏
+- gear [ɡiə] n 齿轮, 传动装置, vt 使适合, 使一致 in top ~ == active
+- genre ['ʒɔŋrə] 流派, 体裁
+- genus ['dʒi:nəs] 种类, 属 ->grain 谷物, 粮食, 植物种类, 谷粒, 粒 -> strain 扭伤
+- geographical -> geological -> geomagnetic 地磁的
+- gibbon ['ɡibən] 长臂猿
+- gigantic [,dʒai'ɡæntik] 巨大的 == enormous == giant  == immense [ɪˈmens] 巨大的, 浩瀚无边的
+- gland [ɡlænd] 腺体
+- glimpse [ɡlimps] 一瞥
+- glow [ɡləu] vi 发白热光
+- glue [ɡlu:] 胶水, 胶
+- granite ['ɡrænit] n 花岗岩
+- grasshopper ['ɡrɑ:s,hɔpə; 'ɡræs-] 蚱蜢, 蚂蚱
+- graze ['ɡrɑ:s,hɔpə; 'ɡræs-] 放牧, 吃草
+- gulf [ɡʌlf] 海湾 == bay -> harbour, harbor 海港
+- hail [heil] 冰雹, 向...欢呼, 致敬 -> halt 停机
+- hallmark == mark 标志, 特征 flag/tag, feature
+- hammer ['hæmə] 铁锤
+- handcrafted == manual 手工的, 手工艺的
+- flattering ['flætəriŋ] 谄媚的, 奉承的
+- fiber -> flax [flæks] 亚麻纤维 -> flux(the volume per second of the flow)
+- fleeting ['fli:tiŋ] 短暂的, 飞逝的 -> fleet n 舰队, 车队 v 略过, 消磨(时间) adj 跑得快的, 快速的
+- flock [flɔk] n 一群, 一坨 v 蜂拥, 群集
+- flour ['flauə] 面粉, 骨粉
+- leaf/leaves == foliage ['fəuliidʒ] 树叶
+- forage ['fɔridʒ] vt 查找 == search/find, n 饲料, 草料
+- ally -> alliance == unite -> unity, melee -> range
+- forge [fɔ:dʒ] 伪造 == fake/foolish, trick???
+- formidable ['fɔ:midəbl] 可怕的 == frightening
+- fortune -> fountain ['fauntin] 喷泉, 人造喷泉
+- fracture ['fræktʃə] n/vt 骨折, 破裂
+- freight [freit] n/vt 货运
+- frigid ['fridʒid] == cold
+- frontier == bound == boundary == margin 边界, 边疆, 边缘
+- fungus ['fʌŋɡəs] 真菌 -> barrier 细菌 -> virus 病毒
+- funnel ['fʌnl] 漏斗, 斗形物
+- furnace ['fə:nis] n 炉子 v 炉中烧热 == stove == oven == kiln 窑, 陶瓷火炉
+- dangle ['dæŋɡ(ə)l] == hang 悬垂, 悬挂, 悬挡
+- granite 花岗岩 -> limestone 石灰石 -> marble 大理石 -> ore 矿石
+- amplify -> amplitude == magnitude 振幅, 大小, 光度 == intensity 强度, 重要性 importance
+- mantle ['mæntl] 地幔, 覆盖物
+- pit n 坑 煤矿 vt 使对抗, 使相斗
+- seismic ['saizmik; 'sais-] 由地震引起的
+- vibrate ['vaɪ.breɪt] 颤动, 振动 == shake/shock
+- tilt [tɪlt] n/v 倾斜 == incline
+
+# 2019-07-31
+
+## [back top](#content)
+
+- rationale [.ræʃə'næl] 根本原因, 理论基础 -> ration ['ræʃ(ə)n] n/v 定量, 配给 -> rational ['ræʃ(ə)nəl] 有理的, 合理的, 理性 -> rationalize ['ræʃ(ə)nə.laɪz] 有理化
+
+- leverage ['lev(ə)rɪdʒ] 杠杆
+
+- expedite == facilitate == accelerate == booster 加速, 促使, 促进
+
+- quest [kwest] n/v 探索, 探求 == explore
+
+- waive [weɪv] 免除, 放弃, give up
+
+- stipend ['staɪ.pend] 薪水 == salary ['sæləri] -> subsidy ['sʌbsədi] 补贴, 津贴 -> sidy ['saɪdɪ] 傲慢的, proud 骄傲的, 自豪的
+
+- nominate ['nɑmɪ.neɪt] 提名, 推荐
+
+- panorama [.pænə'ræmə] 全景, 全景图
+
+- thumbnail [ˈθʌmˌneɪl] 拇指甲, 缩略图, 预览图 -> fingernail, toenail
+
+- maple [ˈmeɪp(ə)l] 枫树, 枫叶
+
+- bulldozer ['bʊl.doʊzər] 推土机
+
+- corporation 公司 -> corporate adj 公司的, 法人的
+
+- 全面的 -> wholeheartedly
+
+- endorse 支持 support, 认可 approve, 背书 dictate, dictation???
+
+- endow == donate, endowment  基金 fund $ \ne ​$ donation
+
+- altruistic [.æltru'ɪstɪk] 利他的, 无私的 selfless
+
+- patron ['peɪtrən] == sponsor 赞助人, 庇护者
+
+- plaque [plæk] 牌匾
+
+- interrogation == question mark
+
+- exclamation == Oh-my-god mark
+  $$
+  colon \equiv : \\
+  semicolon \equiv ; \\
+  comma \equiv , \\
+  tilde['tɪldə] \equiv \~ \equiv swung-dash \\
+  apostrophe [ə'pɑstrəfi] \equiv ` \\
+  quotation \equiv ' \\
+  hyphon \equiv - \\
+  dots \equiv ... \equiv ellipsis[ɪ'lɪpsɪs]
+  dash \equiv -- \\
+  ampersand ['æmpəsænd] \equiv \& \equiv BitwiseAnd \\
+  vitival bar/virgule ['vɜːgjuːl] \equiv | \equiv BitwiseOr \\
+  pound \equiv \# \\
+  $$
+  
+
