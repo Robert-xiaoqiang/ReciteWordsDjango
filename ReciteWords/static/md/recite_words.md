@@ -840,7 +840,7 @@
 - turnpike ['tə:npaik] 收费高速公路
 - twig [twiɡ] 细枝, 嫩枝
 - twine [twain] 绳子, 缠绕 -> twins 双胞胎 -> Siamese Networks
-- blaze == spark == flame == fire == flare 闪光, 闪耀, 星火, 旺火...
+- blaze == spark == flame == fire == flare == flash 闪光, 闪耀, 星火, 旺火...
 - tyrannical [ti'rænikəl; tai-] 暴虐, 残暴
 - undergo 经历, 经受; undertake 着手, 保证, 负责, 承担
 - undermine [,ʌndə'main] 暗地里破坏, 渐渐破坏
@@ -882,7 +882,7 @@
 - testify ['testifai] 证明, 证实, confirm
 - textile ['tekstail; -til] 纺织品
 - therapy ['θerəpi] 疗效, 疗法
-- thorny ['θɔ:ni] 有刺的, 多刺的
+- thorny ['θɔ:ni] 有刺的, 多刺的flare
 - thousandfold [ 'θaʊzndfəʊld ] 千倍的
 - thresh [θreʃ] 脱粒, 打谷
 - thrust [θrʌst] 插入, 用力刺入
@@ -906,7 +906,7 @@
 - tenant ['tenənt] 承租人, 房客 -> tenement ['tenimənt] 承租的房子
 - tentacle ['tentəkl] 触角, 触须, 触手
 - terrace ['terəs; -is] 梯田, 看台
-- meteorite ['mitiə.raɪt] 陨石, 陨星
+- meteorite ['mitiə.raɪt] 陨石, 陨星 == aerolith ['eərəlɪθ]
 - planetoid ['plænəˌtɔɪd] 小行星, asteroid ['æstə.rɔɪd]
 - plummet ['plʌmɪt] 暴跌, 骤降
 - specimen ['spesəmən] 标本, 样片
@@ -1081,7 +1081,7 @@
 - confess [kən'fes] 忏悔, 坦白
 - retract [ri'trækt] 收回, 收缩 == contract 收缩, 感染, 缔结条约
 - retreat [ri'tri:t] 退却, 撤退
-- revere [ri'viə] 尊敬, 崇敬
+- revere [ri'viə] 尊敬, 崇敬 == respect == honor
 - revival [ri'vaivəl] 复兴, 复活
 - rhetoric ['retərik] 修辞, 修辞学
 - ribbon ['ribən] == band 带状物
@@ -1699,5 +1699,19 @@
   vitival bar/virgule ['vɜːgjuːl] \equiv | \equiv BitwiseOr \\
   pound \equiv \# \\
   $$
-  
 
+- colony ['kɑləni] 群, 菌落, 殖民地 == flock -> colonize ['kɑlə.naɪz] 殖民
+- rival ['raɪv(ə)l] 比得上, 匹敌
+- clump [klʌmp] == cluster == group ???
+- hectare ['hek.tɑr] 公顷
+- protract [prə'trækt] 延长(时间) == lengthen, 绘制 == draw
+- lure == induce == tempt == entice [ɪn'taɪs] 引诱, 诱导
+- revenue ['revənju] 收入 -> avenue ['ævə.nu] 林荫道, 大街 -> venue [ˈvɛnjuː] 场地, 会场
+- portfolio [pɔrt'foʊlioʊ] == 物理directory ???
+
+# 2019-08-01
+
+## [back top](#content)
+
+- infringement [ɪn'frɪndʒmənt] 侵权, 侵犯
+- 
