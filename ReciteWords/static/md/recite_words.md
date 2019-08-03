@@ -1714,4 +1714,34 @@
 ## [back top](#content)
 
 - infringement [ɪn'frɪndʒmənt] 侵权, 侵犯
+
+# 2019-08-02
+
+## [back top](#content)
+
+- exocrine [ ˈeksəʊkraɪn ] n/adj 外分泌 -> incretion / internal secretion [sɪˈkriːʃn] 内分泌
+
+# 2019-08-03
+
+## [back top](#content)
+
+- confess/confession [kən'fes] 忏悔
+- congress ['kɑŋɡrəs] n/v 国会
+- exotic [,iɡ'zɔtik] 异国的, 异域的 == novel ???
+- expertise [,ekspə:'ti:z] 专业技能 == technique
+- exponent [ik'spəunənt] -> exponential [.ekspə'nenʃ(ə)l] 指数, 指数的
+- extol [ik'stəul] 赞美
+- exuberant [iɡ'zju:bərənt] 充满活力的 == active/energetic
+- fabric ['fæbrik] 织物, 布匹
+- faint ['feint] 微弱, 模糊, 无力
+- falcon ['fælkən] 猎鹰
+- fatigue [fə'ti:ɡ] 疲劳, 乏累 == tiredness == exhausted
+- feat [fi:t] 功绩, 壮举
+- fidelity [fɪ'deləti] 忠诚 == loyalty
+- fir [fə:] 杉木
+- flake [fleik] n 薄片 v 薄片般落下
+- fist -> wrestling
+- flap [flæp] n 羽翼, 鳃盖, 下垂长耳, 张开的菌盖 v 拍动 -> 拍 ???
+- tent 帐篷
 - 
+
