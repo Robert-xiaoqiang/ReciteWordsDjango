@@ -1,4 +1,4 @@
-> online notes
+> sonline notes
 >
 > wxq &copy; 2019-07 
 
@@ -420,7 +420,7 @@
 
 - incentive == motivation
 
-- erecte [ɪˈrekt] 树立, 建立
+- erect [ɪˈrekt] 树立, 建立
 
 - penetrate ['penə.treɪt] 穿透, 渗透
 
@@ -1674,7 +1674,7 @@
 
 - endorse 支持 support, 认可 approve, 背书 dictate, dictation???
 
-- endow == donate, endowment  基金 fund $ \ne ​$ donation
+- endow == donate, endowment  基金 fund $ \ne $ donation -> endure [in'djuə] == tolerate/tolerant/tolerance
 
 - altruistic [.æltru'ɪstɪk] 利他的, 无私的 selfless
 
@@ -1735,7 +1735,7 @@
 - fabric ['fæbrik] 织物, 布匹
 - faint ['feint] 微弱, 模糊, 无力
 - falcon ['fælkən] 猎鹰
-- fatigue [fə'ti:ɡ] 疲劳, 乏累 == tiredness == exhausted
+- fatigue [fə'ti:ɡ] 疲劳, 乏累 == tiredness == exhausted/exhaustion
 - feat [fi:t] 功绩, 壮举
 - fidelity [fɪ'deləti] 忠诚 == loyalty
 - fir [fə:] 杉木
@@ -1743,5 +1743,86 @@
 - fist -> wrestling
 - flap [flæp] n 羽翼, 鳃盖, 下垂长耳, 张开的菌盖 v 拍动 -> 拍 ???
 - tent 帐篷
-- 
+- stale [steɪl] 走味, 陈旧 == obsolete == out-of-date
+- encompass [in'kʌmpəs] 包围, 环绕 -> compass [ˈkʌmpəs] 指南针, 罗盘
+- campus ['kæmpəs] 校园, 校区
+- enroll [ɪn'roʊl] 登记, 注册 == register
+- entail [in'teil] n/v 带来, 产生
+- enterprise 企业, 事业 -> entrepreneur 企业家
+- enzyme ['enzaim] 酶, 酵素
+- erect [i'rekt] 建立, 树立 == construct/build
+- etch [etʃ] n/v 蚀刻, 侵蚀
+- ethic ['eθik] 伦理, 道德 == moral
+- ethnic ['eθnɪk] 社会学意义, minority少数民族 -> race/racial 生物学意义
+- aesthetics  [ɛsˈθɛtɪks] 美学
+- exaggerate [iɡ'zædʒəreit] 夸大, 夸张
+- example -> ememplify [iɡ'zemplifai] 例证, 引例
+- exempt [iɡ'zempt] 使免除, 使豁免 -> be exempted from $\approx​$ get away with sth./doing sth.
+- exert [iɡ'zə:t] 行使, 施加 -> exert oneself tirelessly
+- exhilarate [ɪɡ'zɪlə.reɪt] -> exhilarating/exhilarated == interest/fascinate/thrill
+- divert [dai'və:t; di-] == convert
+- doctrine ['dɔktrin] 教义, 教旨
+- dogged determination/perseverance to succeed == 顽强
+- dumb [dʌm] 哑的 -> deaf 聋的
+- dwarf [dwɔ:f] 侏儒, 把...显得矮小
+- earnest ['ə:nist] 诚挚的, 真挚的 == sincere
+- earthenware == pottery ???
+- eccentric [ik'sentrik] n/adj 古怪/异常的
+- elegant -> elegance == charming -> charm
+- elicit [i'lisit] 得出, 引出
+- ellipse -> elliptic 椭圆
+- eloquent ['eləkwənt] 有口才的, 雄辩的
+- elusive [ɪ'lusɪv] 难懂的, 难找的 == obscure
+- emanate ['eməneit]  from v (光, 气体)的发出, 发射 == emit/emission 发射, 散出, 排放
+- embellish [im'beliʃ] 装饰 == decorate/adorn, 修饰, 添油加醋 == rhetoric/rhetorical 修辞学
+- embody [im'bɔdi] 使具体化, 包含 == contain, 收录
+- embrace [im'breis] 拥抱, 欣然接受
+- embryo ['embriəu] 胚胎
+- scarf [skɑrf] 围巾, 头巾, 领巾, 披肩
+- gouge [ɡaʊdʒ] n/v 凿子, 凿槽, 凿击
+- bustle ['bʌs(ə)l] n/v 喧闹, 熙熙攘攘
+- prairie ['preri] n 北美草原
 
+## 2019-08-04
+
+## [back top](#content)
+
+- plow [plaʊ] n/v 犁地, 耕地
+- penetrate -> permeable -> soak -> seep out -> ooze out of 渗透, 渗漏
+- tangle ['tæŋɡ(ə)l] n/v 使纠缠, 使混乱
+- sod 草皮, 男人, 讨厌鬼
+- reap == harvest -> reaper 收割者, 收割机
+- blade [bleɪd] 刀片, 刀刃
+- microscope 显微镜 -> microscopic 微观的 -> macroscopic 宏观的, 肉眼可见的
+- proliferate [prə'lɪfə.reɪt] v 迅速繁殖, 猛增 == reproduce
+- extotherm ['ektəˌθəm] ectothermic 冷血动物. 变温动物, 外温 -> endotherm [ˈɛndəˌθɜrm], endothermic 恒温动物, 常温动物, 自温
+- culminate ['kʌlmɪneɪt] 达到顶点, 达到高潮, 达到顶峰 ~ in ==  reach a high point with
+- leash [liʃ] n/v 链条, 链住, 束缚 -> unleash [ʌn'liʃ] 释放, 解放, 发动
+- empire ['empaɪr] -> empirical [imˈpirik(ə)l] 帝国 -> feudal/feudalism 封建
+- invoke 调用 == call/apply -> evoke == provoke [prə'voʊk] 激起, 激发, 引发 arouse ???
+- hostile ['hɑst(ə)l] 敌对的, 敌意的 -> hostility 敌意, 对抗
+- precinct ['pri.sɪŋkt] 辖区, 警区
+- ostentation [.ɑsten'teɪʃ(ə)n] 卖弄, 炫耀 -> ostentatious [.ɑsten'teɪʃəs] 卖弄的, 炫耀的 , 可以修饰物 -> ostentatiously
+- pretentious [prɪ'tenʃəs] 炫耀的, 虚夸的, 自命不凡的
+- escalate ['eskə.leɪt] 不断恶化, 程度升级 == intensify
+- coarse [kɔrs] 粗糙的, 粗劣的
+- disperse == diffuse 驱散, 散开
+- germinate ['dʒɜrmɪ.neɪt] 萌芽, 发芽
+- viable ['vaɪəb(ə)l] 可实施的, 能活的 == feasible
+- secrete [sɪ'krit] 分泌, 隐匿
+- secret [ˈsiːkrət] n/adj 秘密, 秘诀, 机密的 -> secretary ['sekrə.teri] 秘书, 书记
+- pollen -> pollinate -> nectar 花蜜 -> floral adj 花的, 花卉的
+- amino [ə'mi:no] adj 氨基的 -> amino acid $-NH_2-$
+
+# 2019-08-05
+
+## [back top](#content)
+
+- parchment ['pɑrtʃmənt] 羊皮纸, 仿羊皮纸
+- alif ['eɪlɪf] 阿拉伯语的第一个字母
+- stagnate ['stæɡ.neɪt] 停滞, 不发展 -> stagnant ['stæɡnənt] 不景气的, 萧条的 == depression
+- minute ['mɪnɪt] n 分钟 adj 极小的 tiny v 记下时间 time
+- metabolic 代谢的 -> metabolite 代谢物
+- toxin ['tɑksɪn] n 毒素 -> toxic [ˈtɒksik] $VS.$ poison v 下毒, 毒死 n 毒药 -> poisonous ['pɔɪz(ə)nəs]
+- plankton ['plæŋktən] 浮游生物
+- 
