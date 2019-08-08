@@ -1516,7 +1516,7 @@
 - maze 迷宫 麦子???
 - impoverish [ɪm'pɑv(ə)rɪʃ] 使穷困潦倒
 - synaptic [sɪ'næptɪk] 突触的
-- cerebellum [.serə'beləm] 小脑 -> cerebrum [sə'ribrəm] 大脑 -> brain stem 脑干
+- cerebellum [.serə'beləm] 小脑 -> cerebrum [sə'ribrəm] 大脑 -> brain stem 脑干 -> cranial [ 'kreɪnɪəl ] 颅内的, 颅腔的
 - bow [baʊ] adj/v 鞠躬, 弯腰, 低头, n 蝴蝶结
 - hurl [hə:l] 用力投掷
 - impasse ['ɪm.pæs] 僵局, 死路 == unable to pass
@@ -1560,12 +1560,16 @@
 - haunt [hɔ:nt] vt 萦绕心头, n 常去的地方
 - hazard ['hæzəd] -> conflict -> speculation
 - heed [hi:d] == care -> take ~ of 注意, 留意
-- helium ['hi:liəm] -> $He$
-- hydrogen -> $H_2$
+- helium ['hi:liəm] -> $He​$
+- hydrogen ['haɪdrədʒən] -> $H_2$
 - nitrogen ['naɪtrədʒən]  $N_2$
 - oxygen $O_2$
-- carbon $C$ -> carbon dioxide $CO_2$
-- mercury $Hg$
+- carbon $C​$ -> carbon dioxide $CO_2​$
+- mercury $Hg​$
+- stannum ['stænəm] $Sn​$ -> $Pb​$ -> $H​$ -> 锡铅氢
+- selenium [sə'liniəm] $Se​$ 硒元素 -> Ⅳ-A族
+- sulphur ['sʌlfər] $S$ 硫元素
+- copper ['kɔpə] $Cu$ 金属
 - herald ['herəld] 预示...的来临
 - heredity -> heritage 继承, 遗产
 - hexadecimal -> hexagon 六边形
@@ -1805,7 +1809,7 @@
 - ostentation [.ɑsten'teɪʃ(ə)n] 卖弄, 炫耀 -> ostentatious [.ɑsten'teɪʃəs] 卖弄的, 炫耀的 , 可以修饰物 -> ostentatiously
 - pretentious [prɪ'tenʃəs] 炫耀的, 虚夸的, 自命不凡的
 - escalate ['eskə.leɪt] 不断恶化, 程度升级 == intensify
-- coarse [kɔrs] 粗糙的, 粗劣的
+- coarse [kɔrs] 粗糙的, 粗劣的 == crude ???
 - disperse == diffuse 驱散, 散开
 - germinate ['dʒɜrmɪ.neɪt] 萌芽, 发芽
 - viable ['vaɪəb(ə)l] 可实施的, 能活的 == feasible
@@ -1825,4 +1829,111 @@
 - metabolic 代谢的 -> metabolite 代谢物
 - toxin ['tɑksɪn] n 毒素 -> toxic [ˈtɒksik] $VS.$ poison v 下毒, 毒死 n 毒药 -> poisonous ['pɔɪz(ə)nəs]
 - plankton ['plæŋktən] 浮游生物
+
+
+
+# 2019-08-06
+
+## [back top](#content)
+
+- desirable [di'zaiərəbl] 令人向往的, 令人满意的
+- deter [di'tə:] 使踌躇 hesitate/hesitation, 阻碍, 抑制 deter sb from doing == prevent/inhibit/stop/keep from == suppress
+- deteriorate [di'tiəriəreit] 使恶化, 使质量下降
+- devastate ['devəsteit] 毁坏 == destroy == obliterate/eliminate
+- devoid [di'vɔid] 全无的, 缺乏的 == be devoid/short/deficient of -> void
+- sufficient 充足的, 充分的
+- devour [di'vauə] 贪婪的吞食
+- dilute [dai'lju:t; di-] 稀释, 淡化
+- dim [dim] 暗淡的, 模糊的
+- dime [daim] 一角硬币
+- discern [di'sə:n; -'zə:n] 看出, 觉察到
+- discharge 放电, 发力, 排出, 释放
+- dismay [dis'mei] == disappoint/depress
+- repute n 名声, 名誉 v 认为, 看做, 评价 -> reputation -> disrepute [,disri'pju:t] 坏名声, 不光彩
+- disseminate [di'semineit] 传播, 宣传 -> dissemination
+- ditch [ditʃ] 水沟, 水渠
+- diverge -> divergence -> divergent 发散, 分岔, 岔开 == disperse/diffuse
+- converge -> convergence -> convergent 收敛
+- conjunction 合取 $p \and q$ -> disjunction 析取 $p \or q$
+- crisscross 交叉, 往来
+- crouch [krautʃ] 蹲下, 蜷缩着
+- crow [krəu] 乌鸦
+- crust [krʌst] 地壳, 硬外壳
+- cue [kju:] 提示, 暗示 == tip/hint ???
+- culminate ['kʌlmineit] 达到高潮, 达到顶点
+- curtain ['kə:tən] 窗帘, 帘子
+- cylinder ['silində] 圆柱, 圆柱体
+- dairy ['deri] n 乳制品, adj 牛奶的
+- diary ['daɪəri] 日记, 日志 == log/journal
+- dazzle ['dæz(ə)l] 眼花缭乱 -> dazzling
+- deal -> dealer ['di:lə] 商人 merchant
+- debris [də'bri] 碎片, 残骸
+- deceive sb. [di'si:v] vt 欺骗, 行骗
+- deity ['di:iti] 神 == god ???
+- demolish [di'mɔliʃ] == devastate ['devəsteit] == destroy/eliminate 消除, 清除, 消灭, 淘汰/obliterate
+- melanic [mə'lænɪk] 黑化的, 黑色病变的
+- nourish ['nɜrɪʃ] 滋润
+- reasonable ['riz(ə)nəb(ə)l] (形容人) 公平的, 合理的, 通情达理的
+- plausible ['plɔzəb(ə)l] 似是而非, 似乎合理的
+- springboard 春天的板子 ??? 跳板 ??? 出发点 ???
+- postulate [ˈpɒstʃəˌleɪt] n/v 假设, 基本原理
+- abyss [ə'bɪs] 深渊
+- dredge [dredʒ] 疏浚, 打捞
+- extrapolation [ɪkˌstræpə'leɪʃ(ə)n] 外推, 推论
+- feeble ['fib(ə)l] 虚弱的, 无效的 == useless ???
+- all the way == 自始至终, 逐一 every ???
+- valve [vælv] 阀门, 阀 -> bivalve 双壳贝
+- a thousand fathoms deep 水深单位
+- entangle [ɪn'tæŋɡ(ə)l] 使纠缠, 使混乱
+
+# 2019-08-07
+
+## [back top](#content)
+
+- council 政府委员会, 市政服务机构 ->  municipal -> metropolitan -> metropolis
+
+# 2019-08-08
+
+## [back top](#content)
+
+- congest [kən'dʒest] 拥塞 -> congestion -> obstacle ??? crowded ???
+- connoisseur [,kɔnə'sə:] 行家 professor ??? expert ???
+- reserve 保存, 保留, 预定 -> preserve 保存, 保留, 保护 -> conserve 节省, 节约 -> conservation 动物保护, 能源节约 -> conservative 保守的, 守旧的 == stereotyped 铅板的, 僵化的
+- constitute ['kɑnstɪ.tut] 组成, 构成 -> constituent [kən'stitjuənt] 组成元素, 组成要素 == element/member -> constitution 宪法
+- convect [kən'vekt] -> convection 对流
+- convict [kən'vikt] 证明...有罪, 宣判, 定罪
+- cope/do/deal with
+- coral ['kɔ:rəl] 珊瑚
+- cord [kɔ:d] 绳子, 绳索 == rope [roʊp]
+- corridor ['kɔridɔ:] 走廊, 通路
+- cosmic ['kɔzmik] 宇宙的 == universial 普遍的, 全宇宙的
+- counterpart ['kauntə,pɑ:t] n 配对物, 配合物
+- crab [kræb] 蟹, 螃蟹 -> crab meat -> dressed crab(prepared for eating)
+- cerebrum -> cerebellum -> brain stem -> cranial [ 'kreɪnɪəl ] 颅腔的
+- clumsy ['klʌmzi] 笨拙的, 愚笨的
+- coherent/coherence == consistent/consistence == conform/conformance 一致, 顺从, 符合 -> cohesive [kəu'hi:siv] 凝聚力, 黏着力, 粘着的
+- coil [kɔil] == roll
+- coincide [,kəuin'said] vi 同时发生, 巧合 -> by coincidence/accident/chance
+- colony ['kɔləni] 群, 菌落, 殖民 == flock -> colonize 殖民
+- commute [kə'mju:t] v 通勤
+- comprehension -> comprehensive 理解的 ??? 全面的, 综合的 -> synthesis/synthetic
+- comprise [kəm'praiz] 包含, 由...组成 == contain/include/incorporate ???
+- conceal [kən'si:l] 隐藏, 隐瞒 == hide
+- conceive [kən'si:v] 构想, 设想 fancy/suppose/imagine ??? == prospect 勘探, 展望, 前景 ???
+- condense [kən'dens] 使浓缩, 使精简 -> dense ??? -> compact
+- condor ['kɔndɔ:] 秃鹰 == eagle [ˈɪɡ(ə)l] 鹰
+- cone [kəun] 圆锥, 松果
+- confederate [kən'fedərət] 同盟, 使同盟  -> confederacy [kən'fedərəsi] 联盟 == ally/alliance == unite/unity ???
+- confer [kən'fə:] 颁发, 授予 award, 协商 consult/negotiate
+- attorney [ə'tɜrni] 律师, 代理人, 辩护律师
+- casual -> casualty ['kæʒjuəlti] == accident/incident 事故, 伤亡, 横祸
+- pervade [pər'veɪd] 弥漫, 遍及 -> pervasive == spread -> widespread 遍及, 普遍分布
+- civil == citizen -> civic ['sɪvɪk] 市民的, 城镇的 == urban
+- silo ['saɪloʊ] 青储窖
+- premise ['premɪs] 前提, 假定, 假设
+- hallmark ['hɔl.mɑrk] == feature 标志, 特征
+- beam [bim] 梁, 平衡木, 光束
+- masonry ['meɪsənri] 砌筑, 砌砖
+- utilitarian [ju.tɪlɪ'teriən] 功利主义者, 实用的, 功利的 -> utilize -> utilization -> utility
+- girder ['ɡɜrdər] 主梁, 大梁
 - 
